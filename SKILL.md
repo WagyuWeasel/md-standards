@@ -1,4 +1,3 @@
-[SKILL.md](https://github.com/user-attachments/files/25640217/SKILL.md)
 ---
 name: md-standards
 description: >
@@ -25,12 +24,10 @@ description: >
 version: "1.0.0"
 ---
 
-
 # MD-Standards
 
 A system of 32 gold-standard Markdown templates with universal formatting rules,
 hosted on GitHub and routed by Claude.
-
 
 ## How This Works
 
@@ -40,7 +37,6 @@ routing table below, fetches the template via its raw GitHub URL, and generates
 a complete `.md` file. Every generated file follows the universal rules defined
 in `universal-rules.md` and the structural guidance embedded in each template.
 
-
 ## Universal Rules
 
 All generated files must comply with every rule in `universal-rules.md`, which
@@ -48,7 +44,6 @@ is included in this project's files. Before generating any file, read and apply
 all 29 universal rules covering: specification compliance, YAML front matter,
 document structure, content quality, code formatting, media and links,
 accessibility, and file naming.
-
 
 ## Routing Table
 
@@ -86,7 +81,6 @@ accessibility, and file naming.
 | 30 | Journal Entry | journal, daily log, reflection, daybook | `https://raw.githubusercontent.com/WagyuWeasel/md-standards/main/templates/30-journal.md` |
 | 31 | Checklist / Task List | checklist, task list, todo, to-do | `https://raw.githubusercontent.com/WagyuWeasel/md-standards/main/templates/31-checklist.md` |
 | 32 | Zettelkasten Note | zettelkasten, zettel, atomic note, evergreen note, slip-box | `https://raw.githubusercontent.com/WagyuWeasel/md-standards/main/templates/32-zettelkasten.md` |
-
 
 ## Execution Process
 
