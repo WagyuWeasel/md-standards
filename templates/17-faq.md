@@ -1,4 +1,3 @@
-[17-faq.md](https://github.com/user-attachments/files/25636508/17-faq.md)
 ---
 title: "[PROJECT NAME] FAQ"
 type: faq
