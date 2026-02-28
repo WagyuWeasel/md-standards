@@ -1,4 +1,3 @@
-[03-changelog.md](https://github.com/user-attachments/files/25630835/03-changelog.md)
 ---
 title: "Changelog"
 type: changelog
