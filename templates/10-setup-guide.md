@@ -1,4 +1,3 @@
-[10-setup-guide.md](https://github.com/user-attachments/files/25634120/10-setup-guide.md)
 ---
 title: "[PROJECT NAME] Setup Guide"
 type: setup-guide
