@@ -1,4 +1,3 @@
-[04-license.md](https://github.com/user-attachments/files/25630905/04-license.md)
 ---
 title: "License"
 type: license
