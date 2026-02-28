@@ -1,4 +1,3 @@
-[20-blog-post.md](https://github.com/user-attachments/files/25638006/20-blog-post.md)
 ---
 title: "[BLOG POST TITLE]"
 type: blog-post
