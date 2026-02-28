@@ -1,4 +1,3 @@
-[29-retrospective.md](https://github.com/user-attachments/files/25639730/29-retrospective.md)
 ---
 title: "[TEAM/PROJECT] Retrospective — [DATE/SPRINT]"
 type: retrospective
