@@ -1,4 +1,3 @@
-[07-support.md](https://github.com/user-attachments/files/25631107/07-support.md)
 ---
 title: "Support"
 type: support
