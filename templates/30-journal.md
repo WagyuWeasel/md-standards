@@ -1,4 +1,3 @@
-[30-journal.md](https://github.com/user-attachments/files/25639731/30-journal.md)
 ---
 title: "Journal — [DATE]"
 type: journal
@@ -18,13 +17,11 @@ tags: []
      SOURCE: Bullet journal methodology, interstitial journaling, and
      engineering daybook practices. -->
 
-
 # Journal — [DATE]
 
 **Date:** [YYYY-MM-DD]
 **Week:** [WEEK NUMBER OR DATE RANGE]
 **Mood/Energy:** [OPTIONAL — e.g., High / Steady / Low]
-
 
 ## Today's Focus
 
@@ -34,7 +31,6 @@ tags: []
 [ONE SENTENCE — the single most important thing to accomplish or
 focus on today.]
 
-
 ## What Happened
 
 <!-- Write freely. Capture events, conversations, decisions, and
@@ -43,14 +39,12 @@ focus on today.]
 [PROSE — describe what happened today. What did you work on? What
 conversations stood out? What decisions were made? What surprised you?]
 
-
 ## What I Learned
 
 <!-- Extract lessons, insights, or new information worth remembering. -->
 
 - [LESSON OR INSIGHT]
 - [LESSON OR INSIGHT]
-
 
 ## Blockers and Challenges
 
@@ -59,14 +53,12 @@ conversations stood out? What decisions were made? What surprised you?]
 
 - [BLOCKER OR CHALLENGE — and any ideas for resolving it]
 
-
 ## Gratitude / Wins
 
 <!-- Acknowledge what went well, no matter how small. This prevents
      journals from becoming purely problem-focused. -->
 
 - [WIN OR THING YOU'RE GRATEFUL FOR]
-
 
 ## Tomorrow
 
@@ -75,7 +67,6 @@ conversations stood out? What decisions were made? What surprised you?]
 
 - [PRIORITY OR INTENTION FOR TOMORROW]
 - [FOLLOW-UP ITEM]
-
 
 <!-- USAGE NOTES:
      - Not every section needs to be filled every day. Use what's
