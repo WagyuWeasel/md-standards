@@ -1,4 +1,3 @@
-[22-report.md](https://github.com/user-attachments/files/25638008/22-report.md)
 ---
 title: "[REPORT TITLE]"
 type: report
