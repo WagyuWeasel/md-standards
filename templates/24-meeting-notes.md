@@ -1,4 +1,3 @@
-[24-meeting-notes.md](https://github.com/user-attachments/files/25638015/24-meeting-notes.md)
 ---
 title: "[MEETING NAME] — [DATE]"
 type: meeting-notes
