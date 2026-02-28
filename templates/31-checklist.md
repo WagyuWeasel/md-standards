@@ -1,4 +1,3 @@
-[31-checklist.md](https://github.com/user-attachments/files/25639734/31-checklist.md)
 ---
 title: "[CHECKLIST NAME]"
 type: checklist
@@ -20,7 +19,6 @@ tags: []
      KEY RULES: Items must be actionable (start with a verb). Group
      related items. Order matters — list items in execution sequence. -->
 
-
 # [CHECKLIST NAME]
 
 <!-- One sentence: what this checklist is for and when to use it. -->
@@ -31,14 +29,12 @@ onboarding a new team member, publishing a blog post].
 **Owner:** [NAME]
 **Date:** [YYYY-MM-DD]
 
-
 ## Prerequisites
 
 <!-- What must be true before starting this checklist? -->
 
 - [ ] [PRECONDITION — e.g., Access to production environment confirmed]
 - [ ] [PRECONDITION — e.g., All tests passing on main branch]
-
 
 ## [PHASE 1: NAME]
 
@@ -50,7 +46,6 @@ onboarding a new team member, publishing a blog post].
 - [ ] [ACTION — e.g., Run migrations with `npm run migrate`]
 - [ ] [ACTION — e.g., Verify migrations completed: check `schema_version` table]
 
-
 ## [PHASE 2: NAME]
 
 - [ ] [ACTION]
@@ -58,13 +53,11 @@ onboarding a new team member, publishing a blog post].
 - [ ] [ACTION]
 - [ ] [ACTION]
 
-
 ## [PHASE 3: NAME]
 
 - [ ] [ACTION]
 - [ ] [ACTION]
 - [ ] [ACTION]
-
 
 ## Verification
 
@@ -74,7 +67,6 @@ onboarding a new team member, publishing a blog post].
 - [ ] [VERIFY — e.g., Check monitoring dashboards for errors]
 - [ ] [VERIFY — e.g., Confirm rollback plan is documented and ready]
 
-
 ## Sign-Off
 
 <!-- Record who completed the checklist and when. -->
@@ -82,7 +74,6 @@ onboarding a new team member, publishing a blog post].
 **Completed by:** [NAME]
 **Date:** [YYYY-MM-DD]
 **Notes:** [ANY DEVIATIONS OR ISSUES ENCOUNTERED]
-
 
 <!-- USAGE NOTES:
      - Copy this file for each use. Never edit the template directly.
