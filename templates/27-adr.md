@@ -1,4 +1,3 @@
-[27-adr.md](https://github.com/user-attachments/files/25639726/27-adr.md)
 ---
 title: "ADR-[NUMBER]: [DECISION TITLE]"
 type: adr
