@@ -25,13 +25,11 @@ tags: []
      IMPORTANT: Replace all [PLACEHOLDERS] with your actual information.
      Do not modify the license text itself beyond filling in the blanks. -->
 
-
 # License
 
 <!-- Choose ONE of the license texts below and delete the rest.
      Replace [YEAR] with the copyright year(s) and [COPYRIGHT HOLDER]
      with the individual or organization name. -->
-
 
 ## MIT License
 
@@ -60,7 +58,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 <!-- ALTERNATIVE: Apache License 2.0
      Use this when you need explicit patent protection.
 
@@ -80,7 +77,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
 implied. See the License for the specific language governing
 permissions and limitations under the License.
 -->
-
 
 <!-- ALTERNATIVE: GPL 3.0
      Use this when you want all derivative works to remain open source.

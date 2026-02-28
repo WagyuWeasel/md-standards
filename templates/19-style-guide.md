@@ -19,13 +19,11 @@ tags: []
      Stripe's documentation-as-product philosophy, Google developer
      documentation style guide, and Microsoft Writing Style Guide. -->
 
-
 # [PROJECT NAME] Style Guide
 
 This guide defines the writing and formatting standards for all
 [PROJECT NAME] documentation. Follow these rules to keep content
 consistent, clear, and accessible.
-
 
 ## Table of Contents
 
@@ -36,7 +34,6 @@ consistent, clear, and accessible.
 - [Images and Media](#images-and-media)
 - [Terminology](#terminology)
 - [File Naming](#file-naming)
-
 
 ## Voice and Tone
 
@@ -55,7 +52,6 @@ direct, clear, and respectful of the reader's time.
 - **No filler:** Cut words like "simply," "just," "basically," and
   "obviously." If something were obvious, you wouldn't need to
   document it.
-
 
 ## Language
 
@@ -78,7 +74,6 @@ reader knows what an acronym means.
 - Avoid "whitelist/blacklist" — use "allowlist/denylist."
 - Avoid "master/slave" — use "primary/replica" or "main/secondary."
 - Avoid ableist language: "check" not "sanity check."
-
 
 ## Formatting
 
@@ -109,7 +104,6 @@ structure. Each bullet must be at least one full sentence.
 - Use reference-style links when a document has five or more external
   URLs.
 
-
 ## Code in Documentation
 
 ### Code Blocks
@@ -138,7 +132,6 @@ Every code example should be copy-paste-runnable. Include:
 - Realistic variable names (not `foo`, `bar`)
 - Expected output as a comment or separate block
 
-
 ## Images and Media
 
 - Always include descriptive alt text: `![API flow diagram](img.png)`
@@ -146,7 +139,6 @@ Every code example should be copy-paste-runnable. Include:
 - Use PNG for screenshots, SVG for diagrams
 - Keep file sizes under [SIZE LIMIT, e.g., 500KB]
 - Never use images of text — use actual text instead
-
 
 ## Terminology
 
@@ -160,7 +152,6 @@ Every code example should be copy-paste-runnable. Include:
 | [PREFERRED TERM] | [AVOIDED TERM] | [REASON] |
 
 For the full list of defined terms, see the [Glossary](glossary.md).
-
 
 ## File Naming
 

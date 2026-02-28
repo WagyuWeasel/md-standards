@@ -20,14 +20,12 @@ tags: []
      Auto-generated git logs are noisy. A curated changelog groups
      changes by impact and makes upgrade decisions easy. -->
 
-
 # Changelog
 
 All notable changes to this project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
 
 <!-- CATEGORIES: Use only these six categories, in this order.
      Omit any category that has no entries for a given release.
@@ -37,7 +35,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
      - Removed: features removed in this release
      - Fixed: bug fixes
      - Security: vulnerability patches -->
-
 
 ## [Unreleased]
 
@@ -51,7 +48,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - [DESCRIBE BUG FIX WITH ISSUE REFERENCE, e.g., #42]
-
 
 ## [1.0.0] - 2026-01-01
 
@@ -71,7 +67,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [DESCRIBE BUG FIX]
 
-
 ## [0.2.0] - 2025-12-01
 
 ### Added
@@ -82,13 +77,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [FEATURE THAT WILL BE REMOVED IN A FUTURE VERSION]
 
-
 ## [0.1.0] - 2025-11-01
 
 ### Added
 
 - Initial release with [CORE FEATURE SET].
-
 
 <!-- COMPARE LINKS: Place at the bottom of the file. These turn version
      headers into clickable diff links on GitHub. Update with every release. -->
@@ -97,7 +90,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.0.0]: https://github.com/[OWNER]/[REPO]/compare/v0.2.0...v1.0.0
 [0.2.0]: https://github.com/[OWNER]/[REPO]/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/[OWNER]/[REPO]/releases/tag/v0.1.0
-
 
 <!-- REAL-WORLD EXAMPLE: A completed release entry. -->
 

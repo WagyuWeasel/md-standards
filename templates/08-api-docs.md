@@ -17,13 +17,11 @@ tags: []
      SOURCE: Derived from Stripe's API docs structure, Postman best
      practices, OpenAPI conventions, and Anthropic's prose-first style. -->
 
-
 # [API NAME] API Documentation
 
 The [API NAME] API provides [WHAT IT DOES] via a RESTful interface.
 All requests use JSON and require authentication. The base URL for all
 endpoints is `[BASE URL, e.g., https://api.example.com/v1]`.
-
 
 ## Table of Contents
 
@@ -34,7 +32,6 @@ endpoints is `[BASE URL, e.g., https://api.example.com/v1]`.
 - [Endpoints](#endpoints)
 - [Pagination](#pagination)
 - [Webhooks](#webhooks)
-
 
 ## Authentication
 
@@ -54,7 +51,6 @@ To obtain an API key, [INSTRUCTIONS FOR GETTING CREDENTIALS].
 <!-- If you support multiple auth methods (API key, OAuth, JWT),
      document each one in its own subsection. -->
 
-
 ## Base URL and Versioning
 
 All endpoints are relative to the base URL:
@@ -67,7 +63,6 @@ The API version is included in the URL path. When a new version is
 released, the previous version remains available for [DEPRECATION
 PERIOD, e.g., 12 months]. Breaking changes are never introduced within
 a version.
-
 
 ## Rate Limits
 
@@ -88,7 +83,6 @@ X-RateLimit-Reset: 1709164800
 
 When you exceed the limit, the API returns a `429 Too Many Requests`
 response.
-
 
 ## Errors
 
@@ -119,7 +113,6 @@ JSON body with `error` and `message` fields:
 | `422` | Unprocessable — validation failed |
 | `429` | Rate limit exceeded |
 | `500` | Internal server error |
-
 
 ## Endpoints
 
@@ -230,7 +223,6 @@ DELETE /v1/[RESOURCE]/{id}
 Permanently deletes the specified [RESOURCE]. This action cannot be
 undone.
 
-
 ## Pagination
 
 <!-- Explain your pagination model so developers can iterate through
@@ -245,7 +237,6 @@ field indicating the total number of available records.
 curl "https://api.example.com/v1/[RESOURCE]?limit=20&offset=20" \
   -H "Authorization: Bearer YOUR_API_KEY"
 ```
-
 
 ## Webhooks
 
@@ -287,7 +278,6 @@ X-Webhook-Signature: sha256=[HMAC SIGNATURE]
 
 Verify the signature by computing an HMAC-SHA256 of the request body
 using your webhook secret.
-
 
 <!-- REAL-WORLD EXAMPLE: A completed endpoint section. -->
 

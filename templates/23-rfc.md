@@ -22,14 +22,12 @@ decision_date: ""
      KEY PRINCIPLE: Present the problem clearly, offer options with
      honest trade-offs, and make a recommendation. -->
 
-
 # RFC: [PROPOSAL TITLE]
 
 **Author:** [NAME]
 **Status:** [DRAFT / IN REVIEW / ACCEPTED / REJECTED / SUPERSEDED]
 **Created:** [DATE]
 **Decision date:** [TARGET DATE FOR DECISION]
-
 
 ## Summary
 
@@ -38,7 +36,6 @@ decision_date: ""
 
 [WHAT YOU PROPOSE IN 2-3 SENTENCES. State the change, the problem it
 solves, and the expected benefit.]
-
 
 ## Table of Contents
 
@@ -49,7 +46,6 @@ solves, and the expected benefit.]
 - [Open Questions](#open-questions)
 - [Decision](#decision)
 
-
 ## Motivation
 
 <!-- Why are we doing this? What problem exists today? What happens if
@@ -58,7 +54,6 @@ solves, and the expected benefit.]
 [DESCRIBE THE PROBLEM — 2-3 paragraphs. Include concrete evidence:
 metrics, user complaints, incidents, or bottlenecks. Make the case
 that this problem is worth solving now.]
-
 
 ## Proposal
 
@@ -96,7 +91,6 @@ This RFC does **not** cover:
 - [WHAT IS OUT OF SCOPE AND WHY]
 - [WHAT IS OUT OF SCOPE AND WHY]
 
-
 ## Alternatives Considered
 
 <!-- Show you thought this through. For each alternative: describe it,
@@ -127,7 +121,6 @@ This RFC does **not** cover:
 [WHAT HAPPENS IF WE MAINTAIN THE STATUS QUO. Be honest about the
 cost of inaction.]
 
-
 ## Impact
 
 <!-- Who and what is affected by this change? -->
@@ -152,7 +145,6 @@ cost of inaction.]
 
 [INFRASTRUCTURE, DEVELOPMENT, OR OPERATIONAL COST CHANGES]
 
-
 ## Open Questions
 
 <!-- Unresolved issues that need input from reviewers. Number them so
@@ -161,7 +153,6 @@ cost of inaction.]
 1. [QUESTION — include enough context for the reviewer to answer]
 2. [QUESTION]
 3. [QUESTION]
-
 
 ## Decision
 

@@ -19,7 +19,6 @@ tags: []
      documentation-as-product philosophy, Vercel's clean hierarchy,
      CommonMark 0.31.2, GFM, and markdownlint MD001-MD059. -->
 
-
 # [PROJECT NAME]
 
 <!-- Badges go directly below the H1. Keep to 4-7 badges maximum.
@@ -37,7 +36,6 @@ tags: []
 <!-- Optional: screenshot or demo GIF. Use descriptive alt text.
      ![Dashboard showing real-time metrics](docs/images/demo.png) -->
 
-
 ## Table of Contents
 
 <!-- Required when you have 4+ H2 sections. Link every entry. -->
@@ -49,7 +47,6 @@ tags: []
 - [API Reference](#api-reference)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 ## Quick Start
 
@@ -65,7 +62,6 @@ tags: []
 ```
 
 Open `http://localhost:3000` to verify it's running.
-
 
 ## Installation
 
@@ -92,7 +88,6 @@ git clone https://github.com/[OWNER]/[REPO].git
 cd [REPO]
 [BUILD COMMANDS]
 ```
-
 
 ## Usage
 
@@ -130,7 +125,6 @@ Expected output:
 
 </details>
 
-
 ## Configuration
 
 <!-- Document every user-facing config option. Use a table for options
@@ -148,7 +142,6 @@ Example configuration file:
 [OPTION_NAME]: [VALUE]
 [OPTION_NAME]: [VALUE]
 ```
-
 
 ## API Reference
 
@@ -172,7 +165,6 @@ Example configuration file:
 [USAGE EXAMPLE]
 ```
 
-
 ## Contributing
 
 <!-- Short version here, link to CONTRIBUTING.md for details. -->
@@ -181,12 +173,10 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for
 guidelines on how to submit pull requests, report bugs, and suggest
 features.
 
-
 ## License
 
 This project is licensed under the [LICENSE TYPE] License. See
 [LICENSE](LICENSE) for the full text.
-
 
 <!-- REAL-WORLD EXAMPLE: Below is a completed README section for a
      fictional CLI tool called "Fastlog" to show the standard in action. -->

@@ -17,13 +17,11 @@ tags: []
      WHY: GitHub displays SUPPORT.md when users create new issues,
      redirecting support questions to the correct channel. -->
 
-
 # Support
 
 This document explains where to get help with [PROJECT NAME]. Please
 read through before opening an issue — your question may already be
 answered.
-
 
 ## Table of Contents
 
@@ -32,7 +30,6 @@ answered.
 - [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Paid Support](#paid-support)
-
 
 ## Documentation
 
@@ -45,7 +42,6 @@ Start here:
 - [API Reference]([LINK TO API DOCS])
 - [Configuration Guide]([LINK TO CONFIG DOCS])
 - [Troubleshooting Guide]([LINK TO TROUBLESHOOTING])
-
 
 ## Questions and Discussion
 
@@ -64,7 +60,6 @@ For questions and general discussion, use one of these channels:
 Please do **not** use the GitHub issue tracker for support questions.
 Issues are reserved for confirmed bugs and feature requests.
 
-
 ## Bug Reports and Feature Requests
 
 <!-- Direct users to the issue tracker with clear expectations. -->
@@ -78,7 +73,6 @@ Before opening an issue, please:
 1. Search existing issues to avoid duplicates
 2. Verify you're using the latest version
 3. Check the [troubleshooting guide]([LINK]) for known solutions
-
 
 ## Frequently Asked Questions
 
@@ -102,7 +96,6 @@ Before opening an issue, please:
 See [SECURITY.md](SECURITY.md) for responsible disclosure instructions.
 Do not open a public issue for security vulnerabilities.
 
-
 ## Paid Support
 
 <!-- Optional. Include if you offer commercial support. Remove this
@@ -110,7 +103,6 @@ Do not open a public issue for security vulnerabilities.
 
 For commercial support, SLAs, or priority bug fixes, contact
 [SUPPORT EMAIL] or visit [SUPPORT PAGE URL].
-
 
 <!-- REAL-WORLD EXAMPLE: A completed FAQ entry. -->
 

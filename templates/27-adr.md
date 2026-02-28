@@ -22,13 +22,11 @@ tags: []
      a conversation with a future developer. ADRs are append-only —
      don't edit old ones, supersede them with new ones. -->
 
-
 # ADR-[NUMBER]: [DECISION TITLE]
 
 **Status:** [PROPOSED / ACCEPTED / DEPRECATED / SUPERSEDED BY ADR-XXX]
 **Date:** [YYYY-MM-DD]
 **Decision makers:** [NAMES]
-
 
 ## Context
 
@@ -39,7 +37,6 @@ tags: []
 business context? What constraints exist? What triggered this decision?
 Include specific metrics or evidence where available.]
 
-
 ## Decision
 
 <!-- State the decision clearly in one sentence, then elaborate. -->
@@ -48,7 +45,6 @@ We will [DECISION — e.g., use PostgreSQL as our primary database].
 
 [1-2 PARAGRAPHS expanding on the decision. Cover how it will be
 implemented at a high level.]
-
 
 ## Options Considered
 
@@ -76,7 +72,6 @@ implemented at a high level.]
 - **Pros:** [ADVANTAGES]
 - **Cons:** [DISADVANTAGES]
 
-
 ## Consequences
 
 <!-- What happens as a result of this decision? List positive, negative,
@@ -95,14 +90,12 @@ implemented at a high level.]
 
 - [CONSEQUENCE]
 
-
 ## Related
 
 <!-- Link to related ADRs, RFCs, or documents. -->
 
 - [ADR-XXX: RELATED DECISION](link)
 - [RFC: RELATED PROPOSAL](link)
-
 
 <!-- REAL-WORLD EXAMPLE: A completed ADR. -->
 

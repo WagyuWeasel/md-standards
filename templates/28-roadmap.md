@@ -20,7 +20,6 @@ tags: []
      KEY RULE: A roadmap is a plan, not a promise. Include disclaimers
      about dates and communicate confidence levels. -->
 
-
 # [PROJECT NAME] Roadmap
 
 This roadmap outlines planned features and improvements for [PROJECT
@@ -29,7 +28,6 @@ group. Priorities and timelines may shift based on user feedback and
 technical discoveries.
 
 **Last updated:** [DATE]
-
 
 ## Table of Contents
 
@@ -40,7 +38,6 @@ technical discoveries.
 - [Completed](#completed)
 - [How We Prioritize](#how-we-prioritize)
 
-
 ## Vision
 
 <!-- Where is this project heading? One paragraph describing the
@@ -48,7 +45,6 @@ technical discoveries.
 
 [PROJECT NAME] aims to [LONG-TERM VISION — what the project will be
 when it's "done" or fully mature. 2-3 sentences.]
-
 
 ## Now — In Progress
 
@@ -61,7 +57,6 @@ when it's "done" or fully mature. 2-3 sentences.]
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [TEAM/PERSON] | [DATE/QUARTER] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [TEAM/PERSON] | [DATE/QUARTER] |
 
-
 ## Next — Planned
 
 <!-- Committed to but not yet started. Higher confidence on scope,
@@ -72,7 +67,6 @@ when it's "done" or fully mature. 2-3 sentences.]
 | [FEATURE] | [ONE-LINE DESCRIPTION] | High | [QUARTER] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | High | [QUARTER] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | Medium | [QUARTER] |
-
 
 ## Later — Exploring
 
@@ -86,7 +80,6 @@ when it's "done" or fully mature. 2-3 sentences.]
 These items are not yet committed. If any of these are important to
 you, [let us know](https://github.com/[OWNER]/[REPO]/discussions).
 
-
 ## Completed
 
 <!-- Recently shipped items. Keeps the roadmap a living document and
@@ -96,7 +89,6 @@ you, [let us know](https://github.com/[OWNER]/[REPO]/discussions).
 |:--------|:------------|:--------|
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [DATE] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [DATE] |
-
 
 ## How We Prioritize
 

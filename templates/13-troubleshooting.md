@@ -18,7 +18,6 @@ tags: []
      SOURCE: Stripe's error documentation, Knowledge-Centered Service
      (KCS) methodology, and Anthropic's clear-instructions style. -->
 
-
 # [PROJECT NAME] Troubleshooting Guide
 
 This guide covers common issues with [PROJECT NAME] and how to resolve
@@ -28,7 +27,6 @@ the steps to fix it.
 If your issue isn't listed here, search [existing issues](https://github.com/[OWNER]/[REPO]/issues)
 or open a new one.
 
-
 ## Table of Contents
 
 - [Installation Issues](#installation-issues)
@@ -36,7 +34,6 @@ or open a new one.
 - [Runtime Errors](#runtime-errors)
 - [Performance Issues](#performance-issues)
 - [Diagnostic Tools](#diagnostic-tools)
-
 
 ## Installation Issues
 
@@ -69,7 +66,6 @@ or open a new one.
 
 1. [STEP 1]
 2. [STEP 2]
-
 
 ## Configuration Issues
 
@@ -112,7 +108,6 @@ credentials, firewall blocking port]
    [DIRECT CONNECTION TEST COMMAND]
    ```
 
-
 ## Runtime Errors
 
 ### [ISSUE TITLE, e.g., "Request timeout after 30 seconds"]
@@ -136,7 +131,6 @@ credentials, firewall blocking port]
 
 1. [STEP 1]
 2. [STEP 2]
-
 
 ## Performance Issues
 
@@ -165,7 +159,6 @@ credentials, firewall blocking port]
 | [CAUSE 1] | [FIX 1] |
 | [CAUSE 2] | [FIX 2] |
 | [CAUSE 3] | [FIX 3] |
-
 
 ## Diagnostic Tools
 

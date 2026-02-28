@@ -17,13 +17,11 @@ tags: []
      SOURCE: Derived from arc42, C4 model, AWS Well-Architected, and
      Stripe/Vercel documentation patterns. -->
 
-
 # [SYSTEM NAME] Architecture
 
 This document describes the architecture of [SYSTEM NAME], a [BRIEF
 DESCRIPTION OF WHAT THE SYSTEM DOES]. It covers the system's components,
 their interactions, data flow, and the key design decisions.
-
 
 ## Table of Contents
 
@@ -37,7 +35,6 @@ their interactions, data flow, and the key design decisions.
 - [Security](#security)
 - [Decision Log](#decision-log)
 
-
 ## Overview
 
 <!-- A 2-3 paragraph summary of the system. What does it do, who uses
@@ -50,7 +47,6 @@ handles [SCALE/VOLUME DESCRIPTION, e.g., ~10K requests per second].
 The system prioritizes [KEY QUALITY ATTRIBUTES, e.g., availability and
 low latency] over [TRADEOFFS, e.g., strong consistency].
 
-
 ## Design Principles
 
 <!-- List 3-5 principles that guide architectural decisions. These help
@@ -59,7 +55,6 @@ low latency] over [TRADEOFFS, e.g., strong consistency].
 - **[PRINCIPLE 1, e.g., Loose coupling]:** [WHY THIS MATTERS]
 - **[PRINCIPLE 2, e.g., Fail gracefully]:** [WHY THIS MATTERS]
 - **[PRINCIPLE 3, e.g., Observe everything]:** [WHY THIS MATTERS]
-
 
 ## System Context
 
@@ -82,7 +77,6 @@ low latency] over [TRADEOFFS, e.g., strong consistency].
 |:----------------|:---------|:------------|
 | [SYSTEM/USER] | [PROTOCOL] | [WHAT DATA FLOWS AND DIRECTION] |
 | [SYSTEM/USER] | [PROTOCOL] | [WHAT DATA FLOWS AND DIRECTION] |
-
 
 ## Components
 
@@ -110,7 +104,6 @@ failure modes.]
 
 [2-3 sentences describing key behavior.]
 
-
 ## Data Flow
 
 <!-- Describe the path data takes through the system for the most
@@ -125,7 +118,6 @@ failure modes.]
 4. [STEP 4: Event published to...]
 5. [STEP 5: Consumer processes event and...]
 
-
 ## Data Model
 
 <!-- Describe the core entities and their relationships. Use a table
@@ -137,7 +129,6 @@ failure modes.]
 | [ENTITY] | [WHAT IT REPRESENTS] | `id`, `[FIELD]`, `[FIELD]` |
 
 **Storage:** [DATABASE TECHNOLOGY AND WHY IT WAS CHOSEN]
-
 
 ## Infrastructure
 
@@ -158,7 +149,6 @@ serverless via Lambda, Docker on ECS]
 | [SERVICE] | [PURPOSE] | [KEY CONFIG, e.g., 3 replicas, 2 vCPU] |
 | [SERVICE] | [PURPOSE] | [KEY CONFIG] |
 
-
 ## Security
 
 <!-- Describe the security architecture: authentication, authorization,
@@ -177,7 +167,6 @@ serverless via Lambda, Docker on ECS]
 maintain a separate threat model document.]
 
 </details>
-
 
 ## Decision Log
 

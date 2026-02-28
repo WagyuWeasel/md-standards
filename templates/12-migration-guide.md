@@ -17,7 +17,6 @@ tags: []
      SOURCE: Stripe's versioning and migration patterns, Vercel's
      upgrade docs, and semver best practices. -->
 
-
 # Migration Guide: [FROM VERSION] to [TO VERSION]
 
 This guide covers everything you need to migrate from [PROJECT NAME]
@@ -27,7 +26,6 @@ the migration.
 **Estimated time:** [TIME ESTIMATE, e.g., 15–30 minutes]
 
 **Risk level:** [LOW / MEDIUM / HIGH]
-
 
 ## Table of Contents
 
@@ -39,7 +37,6 @@ the migration.
 - [Rollback Plan](#rollback-plan)
 - [FAQ](#faq)
 
-
 ## Before You Begin
 
 <!-- Preconditions and preparation steps. -->
@@ -50,7 +47,6 @@ the migration.
    [FROM VERSION] first.
 3. Review the [changelog](CHANGELOG.md) for a complete list of changes.
 4. Run your test suite and confirm all tests pass before migrating.
-
 
 ## Breaking Changes
 
@@ -94,7 +90,6 @@ the migration.
 [NEW CODE OR CONFIG]
 ```
 
-
 ## Step-by-Step Migration
 
 <!-- Numbered steps. Every command must be runnable. -->
@@ -132,7 +127,6 @@ Fix any failures before proceeding. Common issues are covered in the
 
 [DEPLOYMENT INSTRUCTIONS OR LINK TO DEPLOY DOCS]
 
-
 ## Deprecated Features
 
 <!-- Features that still work but will be removed in a future version.
@@ -143,14 +137,12 @@ Fix any failures before proceeding. Common issues are covered in the
 | `[FEATURE/API]` | [VERSION] | [VERSION] | `[REPLACEMENT]` |
 | `[FEATURE/API]` | [VERSION] | [VERSION] | `[REPLACEMENT]` |
 
-
 ## New Features
 
 <!-- Briefly highlight what's new. Link to full docs for each. -->
 
 - **[FEATURE NAME]:** [ONE-LINE DESCRIPTION]. See [DOCS LINK].
 - **[FEATURE NAME]:** [ONE-LINE DESCRIPTION]. See [DOCS LINK].
-
 
 ## Rollback Plan
 
@@ -168,7 +160,6 @@ If the migration causes issues:
 
 4. Restart the application.
 5. Open an issue with details about what went wrong.
-
 
 ## FAQ
 

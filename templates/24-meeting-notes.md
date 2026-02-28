@@ -19,7 +19,6 @@ tags: []
      KEY RULE: Prioritize decisions and action items over transcript-style
      notes. Nobody reads a wall of "X said Y then Z said W." -->
 
-
 # [MEETING NAME] — [DATE]
 
 **Date:** [YYYY-MM-DD]
@@ -28,7 +27,6 @@ tags: []
 **Facilitator:** [NAME]
 **Note-taker:** [NAME]
 
-
 ## Attendees
 
 - [NAME] — [ROLE/TEAM]
@@ -36,7 +34,6 @@ tags: []
 - [NAME] — [ROLE/TEAM]
 
 **Absent:** [NAME], [NAME]
-
 
 ## Agenda
 
@@ -47,14 +44,12 @@ tags: []
 - [x] [TOPIC 2]
 - [ ] [TOPIC 3 — carried over to next meeting]
 
-
 ## Decisions
 
 <!-- The most important section. What was decided? Be explicit. -->
 
 1. **[DECISION]:** [DETAILS — what was agreed, any conditions]
 2. **[DECISION]:** [DETAILS]
-
 
 ## Action Items
 
@@ -65,7 +60,6 @@ tags: []
 | [WHAT NEEDS TO BE DONE] | [NAME] | [DATE] |
 | [WHAT NEEDS TO BE DONE] | [NAME] | [DATE] |
 | [WHAT NEEDS TO BE DONE] | [NAME] | [DATE] |
-
 
 ## Discussion Notes
 
@@ -81,7 +75,6 @@ disagreements, and how the group reached a conclusion.]
 
 [KEY POINTS DISCUSSED.]
 
-
 ## Parking Lot
 
 <!-- Topics that came up but were deferred. Track them so they don't
@@ -89,7 +82,6 @@ disagreements, and how the group reached a conclusion.]
 
 - [DEFERRED TOPIC — to be discussed on [DATE] or in [FORUM]]
 - [DEFERRED TOPIC]
-
 
 ## Next Meeting
 

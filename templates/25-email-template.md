@@ -19,7 +19,6 @@ audience: "[RECIPIENT GROUP]"
      SOURCE: Mailchimp content best practices, Anthropic's clear-language
      standards, and email accessibility guidelines. -->
 
-
 # [EMAIL SUBJECT LINE]
 
 <!-- The subject line is critical. Keep it under 50 characters for mobile.
@@ -29,7 +28,6 @@ audience: "[RECIPIENT GROUP]"
 **To:** [RECIPIENT OR LIST]
 **Preview text:** [FIRST 90 CHARACTERS VISIBLE IN INBOX PREVIEW]
 
-
 ## Header
 
 <!-- Optional: banner image or logo. Keep it simple — many email clients
@@ -38,7 +36,6 @@ audience: "[RECIPIENT GROUP]"
 
 [GREETING, e.g., Hi [FIRST NAME],]
 
-
 ## Opening
 
 <!-- Get to the point in the first 2 sentences. State the purpose of
@@ -46,7 +43,6 @@ audience: "[RECIPIENT GROUP]"
 
 [OPENING PARAGRAPH — 2-3 sentences. State the key message or purpose
 immediately.]
-
 
 ## Body
 
@@ -65,7 +61,6 @@ immediately.]
 
 [CONTENT]
 
-
 ## Call to Action
 
 <!-- Every email should have one clear CTA. What do you want the reader
@@ -75,14 +70,12 @@ immediately.]
 
 [BUTTON TEXT](https://example.com/action)
 
-
 ## Closing
 
 [SIGN-OFF, e.g., "Thanks for reading," or "See you next month,"]
 
 [SENDER NAME]
 [TITLE]
-
 
 ## Footer
 
@@ -92,7 +85,6 @@ immediately.]
 [COMPANY NAME] · [ADDRESS]
 
 [Unsubscribe](https://example.com/unsubscribe) · [Preferences](https://example.com/preferences)
-
 
 <!-- GUIDELINES FOR EMAIL CONTENT:
      - Keep total word count under 500 for newsletters, under 200 for

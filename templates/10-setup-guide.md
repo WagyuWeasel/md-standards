@@ -18,13 +18,11 @@ tags: []
      SOURCE: Vercel's concise setup patterns, Stripe's step-by-step
      onboarding, and Anthropic's imperative-mood instructions. -->
 
-
 # [PROJECT NAME] Setup Guide
 
 This guide walks you through installing and configuring [PROJECT NAME]
 on your local machine. By the end, you will have a working [WHAT THEY
 WILL HAVE, e.g., development server, CLI tool, running application].
-
 
 ## Table of Contents
 
@@ -34,7 +32,6 @@ WILL HAVE, e.g., development server, CLI tool, running application].
 - [Verify Installation](#verify-installation)
 - [Next Steps](#next-steps)
 - [Troubleshooting](#troubleshooting)
-
 
 ## Prerequisites
 
@@ -56,7 +53,6 @@ Verify your versions:
 [RUNTIME] --version
 [PACKAGE MANAGER] --version
 ```
-
 
 ## Installation
 
@@ -114,7 +110,6 @@ Expected output:
 [EXPECTED OUTPUT, e.g., Server running at http://localhost:3000]
 ```
 
-
 ## Configuration
 
 <!-- Document every environment variable or config option. Use a table
@@ -126,7 +121,6 @@ Expected output:
 | `[VAR]` | Yes | — | [WHAT IT DOES] |
 | `[VAR]` | No | `[DEFAULT]` | [WHAT IT DOES] |
 | `[VAR]` | No | `[DEFAULT]` | [WHAT IT DOES] |
-
 
 ## Verify Installation
 
@@ -144,7 +138,6 @@ All tests should pass. If you see failures, check the
 Open [URL, e.g., http://localhost:3000] in your browser. You should see
 [WHAT THEY SHOULD SEE, e.g., the login page, a welcome dashboard].
 
-
 ## Next Steps
 
 <!-- Point the user to the logical next action after setup. -->
@@ -154,7 +147,6 @@ Open [URL, e.g., http://localhost:3000] in your browser. You should see
   advanced settings
 - See [Contributing](CONTRIBUTING.md) if you want to develop on the
   project
-
 
 ## Troubleshooting
 

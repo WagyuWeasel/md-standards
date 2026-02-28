@@ -19,14 +19,12 @@ tags: []
      KEY RULE: Every problem identified must have an action item with an
      owner. Retros without actions are just venting sessions. -->
 
-
 # [TEAM/PROJECT] Retrospective — [DATE/SPRINT]
 
 **Date:** [YYYY-MM-DD]
 **Sprint/Period:** [SPRINT NUMBER, DATE RANGE, OR PROJECT NAME]
 **Facilitator:** [NAME]
 **Participants:** [NAMES]
-
 
 ## Summary
 
@@ -36,7 +34,6 @@ tags: []
 [SUMMARY — e.g., "Sprint 14 focused on shipping the v2 API. We hit
 the release date but carried over two items related to rate limiting.
 Team morale was high but workload was unsustainable."]
-
 
 ## What Went Well
 
@@ -48,7 +45,6 @@ Team morale was high but workload was unsustainable."]
 - [POSITIVE ITEM]
 - [POSITIVE ITEM]
 
-
 ## What Didn't Go Well
 
 <!-- Be honest but blameless. Focus on systems and processes, not
@@ -59,7 +55,6 @@ Team morale was high but workload was unsustainable."]
 - [PROBLEM]
 - [PROBLEM]
 
-
 ## What We Learned
 
 <!-- Insights that should inform future work. -->
@@ -68,7 +63,6 @@ Team morale was high but workload was unsustainable."]
   instead of one big release"]
 - [INSIGHT]
 - [INSIGHT]
-
 
 ## Action Items
 
@@ -81,7 +75,6 @@ Team morale was high but workload was unsustainable."]
 | [SPECIFIC ACTION] | [NAME] | [DATE] | To do |
 | [SPECIFIC ACTION] | [NAME] | [DATE] | To do |
 
-
 ## Follow-Up from Previous Retro
 
 <!-- Track whether last retro's actions were completed. This builds
@@ -92,7 +85,6 @@ Team morale was high but workload was unsustainable."]
 |:-------------------------------|:------|:-------|
 | [ACTION] | [NAME] | Done / In progress / Not started |
 | [ACTION] | [NAME] | Done / In progress / Not started |
-
 
 ## Metrics
 

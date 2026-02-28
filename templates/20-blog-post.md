@@ -19,7 +19,6 @@ canonical_url: ""
      SOURCE: Vercel's blog structure, Hugo/Jekyll front matter conventions,
      Anthropic's prose-first writing, and SEO best practices. -->
 
-
 # [BLOG POST TITLE]
 
 <!-- First paragraph: hook the reader. State the problem, insight, or
@@ -28,7 +27,6 @@ canonical_url: ""
 
 [OPENING PARAGRAPH — State the key insight, problem, or announcement.
 Make the reader want to continue.]
-
 
 ## [SECTION HEADING]
 
@@ -40,7 +38,6 @@ Make the reader want to continue.]
 than using bullet points.]
 
 [CONTINUE WITH SUPPORTING DETAIL, EVIDENCE, OR EXPLANATION.]
-
 
 ## [SECTION HEADING]
 
@@ -56,7 +53,6 @@ than using bullet points.]
 <!-- Use images sparingly and only when they add understanding.
      ![Descriptive alt text](images/filename.png) -->
 
-
 ## [SECTION HEADING]
 
 [BODY PARAGRAPHS]
@@ -69,7 +65,6 @@ tangential points that would interrupt the main flow.]
 
 </details>
 
-
 ## [CONCLUSION / CALL TO ACTION]
 
 <!-- End with a clear takeaway or next step. What should the reader
@@ -80,7 +75,6 @@ concrete next step.]
 
 - [LINK TO RELATED RESOURCE]
 - [LINK TO RELATED RESOURCE]
-
 
 <!-- REAL-WORLD EXAMPLE: A completed blog post opening. -->
 

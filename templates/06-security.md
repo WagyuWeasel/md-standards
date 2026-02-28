@@ -18,9 +18,7 @@ tags: []
      WHY: GitHub displays SECURITY.md in the repo's Security tab.
      Having a clear policy demonstrates maturity and builds trust. -->
 
-
 # Security Policy
-
 
 ## Supported Versions
 
@@ -33,7 +31,6 @@ tags: []
 | [LATEST VERSION, e.g., 2.x] | Yes |
 | [PREVIOUS VERSION, e.g., 1.x] | Yes (until [DATE]) |
 | [OLD VERSION, e.g., 0.x] | No |
-
 
 ## Reporting a Vulnerability
 
@@ -76,7 +73,6 @@ Your report should include:
 - Do not perform actions that could degrade the service for others
 - Act in good faith
 
-
 ## Security Updates
 
 <!-- Explain how users learn about security fixes. -->
@@ -86,7 +82,6 @@ Critical vulnerabilities may trigger an out-of-band release. Subscribe
 to [NOTIFICATION CHANNEL, e.g., GitHub releases, mailing list] to
 receive security notifications.
 
-
 ## Recognition
 
 <!-- Optional but recommended. Public credit encourages responsible
@@ -95,7 +90,6 @@ receive security notifications.
 We appreciate the efforts of security researchers who help keep
 [PROJECT NAME] and its users safe. With your permission, we will
 acknowledge your contribution in the release notes for the fix.
-
 
 <!-- REAL-WORLD EXAMPLE: A completed "Reporting a Vulnerability" section. -->
 

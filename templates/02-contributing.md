@@ -18,13 +18,11 @@ tags: []
      more contributions. This is the single most important file for
      community growth. -->
 
-
 # Contributing to [PROJECT NAME]
 
 Thank you for considering a contribution. This guide explains the process
 for reporting bugs, suggesting features, and submitting code changes.
 Following these guidelines helps maintainers review your work quickly.
-
 
 ## Table of Contents
 
@@ -35,7 +33,6 @@ Following these guidelines helps maintainers review your work quickly.
 - [Style Guide](#style-guide)
 - [Community](#community)
 
-
 ## Code of Conduct
 
 <!-- Link to your CODE_OF_CONDUCT.md. Every contributor must agree to it. -->
@@ -43,7 +40,6 @@ Following these guidelines helps maintainers review your work quickly.
 This project follows the [Code of Conduct](CODE_OF_CONDUCT.md). By
 participating, you agree to uphold these standards. Report unacceptable
 behavior to [EMAIL ADDRESS].
-
 
 ## How to Contribute
 
@@ -78,7 +74,6 @@ Look for issues labeled `good first issue` or `help wanted`. These are
 scoped for contributors who are new to the project. If you need
 guidance, comment on the issue and a maintainer will help.
 
-
 ## Development Setup
 
 <!-- Step-by-step instructions to get a local dev environment running.
@@ -102,7 +97,6 @@ cd [REPO]
 ```bash
 [LINT COMMAND, e.g., npm run lint]
 ```
-
 
 ## Pull Request Process
 
@@ -143,7 +137,6 @@ Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
 - Does the PR description explain the "why" clearly?
 - Does it pass CI checks?
 
-
 ## Style Guide
 
 <!-- Link to or embed your coding standards. Keep it brief here;
@@ -161,7 +154,6 @@ Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
 - Use fenced code blocks with language identifiers
 - Keep line length under 80 characters for prose
 
-
 ## Community
 
 <!-- Tell contributors where to find help, ask questions, and connect
@@ -170,7 +162,6 @@ Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
 - [DISCUSSION FORUM, e.g., GitHub Discussions](https://github.com/[OWNER]/[REPO]/discussions)
 - [CHAT PLATFORM, e.g., Discord](https://discord.gg/[INVITE])
 - [EMAIL OR MAILING LIST]
-
 
 <!-- REAL-WORLD EXAMPLE: Completed "How to Contribute" section for
      a fictional project. -->

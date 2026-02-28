@@ -18,13 +18,11 @@ tags: []
      Write answers in the same language users would use to ask the
      question. Keep answers concise; link to full docs for deep dives. -->
 
-
 # [PROJECT NAME] Frequently Asked Questions
 
 Answers to the most common questions about [PROJECT NAME]. If your
 question isn't listed here, check the [documentation](docs/) or ask
 in [SUPPORT CHANNEL, e.g., GitHub Discussions].
-
 
 ## Table of Contents
 
@@ -33,7 +31,6 @@ in [SUPPORT CHANNEL, e.g., GitHub Discussions].
 - [Usage](#usage)
 - [Billing and Licensing](#billing-and-licensing)
 - [Troubleshooting](#troubleshooting)
-
 
 ## General
 
@@ -48,7 +45,6 @@ in [SUPPORT CHANNEL, e.g., GitHub Discussions].
 ### [QUESTION, e.g., "What platforms are supported?"]
 
 [ANSWER — be specific about OS, runtime, and browser support.]
-
 
 ## Installation and Setup
 
@@ -65,7 +61,6 @@ For full instructions, see the [Setup Guide](docs/setup-guide.md).
 ### [QUESTION, e.g., "What are the system requirements?"]
 
 [ANSWER — list minimum versions and dependencies.]
-
 
 ## Usage
 
@@ -85,7 +80,6 @@ For full instructions, see the [Setup Guide](docs/setup-guide.md).
 
 [ANSWER]
 
-
 ## Billing and Licensing
 
 <!-- Remove this section if not applicable (e.g., for open-source
@@ -98,7 +92,6 @@ For full instructions, see the [Setup Guide](docs/setup-guide.md).
 ### [QUESTION, e.g., "Can I use this in a commercial project?"]
 
 [ANSWER — be specific about what's allowed.]
-
 
 ## Troubleshooting
 

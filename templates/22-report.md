@@ -20,13 +20,11 @@ audience: "[WHO THIS REPORT IS FOR]"
      principle (conclusion first), and Stripe's clear technical
      communication. -->
 
-
 # [REPORT TITLE]
 
 **Prepared by:** [AUTHOR NAME]
 **Date:** [DATE]
 **Status:** [DRAFT / FINAL]
-
 
 ## Executive Summary
 
@@ -38,7 +36,6 @@ audience: "[WHO THIS REPORT IS FOR]"
 Follow with the 2-3 most important findings that support it. End
 with the recommended action or decision.]
 
-
 ## Table of Contents
 
 - [Background](#background)
@@ -48,7 +45,6 @@ with the recommended action or decision.]
 - [Recommendations](#recommendations)
 - [Appendix](#appendix)
 
-
 ## Background
 
 <!-- Why does this report exist? What question does it answer?
@@ -57,7 +53,6 @@ with the recommended action or decision.]
 [CONTEXT — 2-3 paragraphs explaining the situation, the question
 being addressed, and why it matters now.]
 
-
 ## Methodology
 
 <!-- How did you gather and analyze the data? This establishes
@@ -65,7 +60,6 @@ being addressed, and why it matters now.]
 
 [DESCRIBE YOUR APPROACH — data sources, time period, tools used,
 sample size, and any limitations or assumptions.]
-
 
 ## Findings
 
@@ -90,7 +84,6 @@ add clarity.]
 
 [DESCRIPTION WITH SUPPORTING DATA.]
 
-
 ## Analysis
 
 <!-- Interpret the findings. What do they mean? What patterns emerge?
@@ -99,7 +92,6 @@ add clarity.]
 [ANALYSIS — 2-4 paragraphs connecting the findings to the original
 question. Identify trends, root causes, risks, or opportunities.
 Be explicit about trade-offs.]
-
 
 ## Recommendations
 
@@ -118,7 +110,6 @@ Based on the findings above, we recommend:
 |:-------|:------|:---------|
 | [ACTION] | [PERSON/TEAM] | [DATE] |
 | [ACTION] | [PERSON/TEAM] | [DATE] |
-
 
 ## Appendix
 

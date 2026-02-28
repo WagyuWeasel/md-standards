@@ -19,9 +19,7 @@ tags: []
      WHY: Projects with a code of conduct signal that the community is
      intentionally inclusive. GitHub surfaces this file in repo insights. -->
 
-
 # Code of Conduct
-
 
 ## Our Pledge
 
@@ -34,7 +32,6 @@ race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open,
 welcoming, diverse, inclusive, and healthy community.
-
 
 ## Our Standards
 
@@ -61,7 +58,6 @@ Examples of unacceptable behavior:
 - Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-
 ## Enforcement Responsibilities
 
 <!-- Name who enforces the code and what powers they have. -->
@@ -76,7 +72,6 @@ reject comments, commits, code, wiki edits, issues, and other
 contributions that are not aligned to this Code of Conduct, and will
 communicate reasons for moderation decisions when appropriate.
 
-
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also
@@ -84,7 +79,6 @@ applies when an individual is officially representing the community in
 public spaces. Examples of representing our community include using an
 official email address, posting via an official social media account,
 or acting as an appointed representative at an online or offline event.
-
 
 ## Enforcement
 
@@ -98,7 +92,6 @@ promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security
 of the reporter of any incident.
-
 
 ## Enforcement Guidelines
 
@@ -151,7 +144,6 @@ individuals.
 
 **Consequence:** A permanent ban from any sort of public interaction
 within the community.
-
 
 ## Attribution
 

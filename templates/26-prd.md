@@ -17,14 +17,12 @@ tags: []
      SOURCE: Stripe's product spec format, Anthropic's clear-language
      standards, and industry PRD best practices. -->
 
-
 # PRD: [FEATURE NAME]
 
 **Author:** [NAME]
 **Status:** [DRAFT / IN REVIEW / APPROVED / IN PROGRESS / SHIPPED]
 **Target release:** [VERSION OR DATE]
 **Last updated:** [DATE]
-
 
 ## Summary
 
@@ -33,7 +31,6 @@ tags: []
 [FEATURE NAME] allows [WHO] to [DO WHAT] so that [BENEFIT/OUTCOME].
 We are building this because [BUSINESS JUSTIFICATION — user demand,
 revenue impact, competitive pressure, or strategic alignment].
-
 
 ## Table of Contents
 
@@ -46,7 +43,6 @@ revenue impact, competitive pressure, or strategic alignment].
 - [Timeline](#timeline)
 - [Open Questions](#open-questions)
 
-
 ## Problem Statement
 
 <!-- What problem exists today? Who is affected? What evidence do you
@@ -55,7 +51,6 @@ revenue impact, competitive pressure, or strategic alignment].
 [2-3 PARAGRAPHS describing the current pain point. Include data:
 support tickets, user research findings, churn analysis, or competitive
 gaps.]
-
 
 ## Goals and Non-Goals
 
@@ -73,7 +68,6 @@ gaps.]
 - [NON-GOAL 1 — and why it's out of scope]
 - [NON-GOAL 2]
 
-
 ## User Stories
 
 <!-- Write from the user's perspective. Each story should be testable. -->
@@ -83,7 +77,6 @@ gaps.]
 | US-1 | [ROLE] | [ACTION] | [BENEFIT] |
 | US-2 | [ROLE] | [ACTION] | [BENEFIT] |
 | US-3 | [ROLE] | [ACTION] | [BENEFIT] |
-
 
 ## Requirements
 
@@ -122,7 +115,6 @@ gaps.]
 - [ ] [CRITERION]
 - [ ] [CRITERION]
 
-
 ## Design
 
 <!-- Link to or embed design artifacts. Keep the PRD focused on "what"
@@ -133,7 +125,6 @@ gaps.]
 **Technical spec:** [LINK TO ARCHITECTURE DOC OR TECH SPEC]
 
 **API changes:** [SUMMARY OF NEW OR MODIFIED ENDPOINTS]
-
 
 ## Success Metrics
 
@@ -146,7 +137,6 @@ gaps.]
 | [METRIC, e.g., Support tickets/week] | [VALUE] | [VALUE] | [METHOD] |
 | [METRIC, e.g., User adoption at 30 days] | N/A | [VALUE] | [METHOD] |
 
-
 ## Timeline
 
 | Milestone | Date | Owner |
@@ -156,7 +146,6 @@ gaps.]
 | Development start | [DATE] | [NAME] |
 | QA start | [DATE] | [NAME] |
 | Ship | [DATE] | [NAME] |
-
 
 ## Open Questions
 

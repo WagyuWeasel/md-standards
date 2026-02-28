@@ -19,9 +19,7 @@ tags: []
      KEY PRINCIPLE: Every procedure must be executable by someone who
      has never seen this system before. No assumed knowledge. -->
 
-
 # [SERVICE NAME] Runbook
-
 
 ## Table of Contents
 
@@ -33,7 +31,6 @@ tags: []
 - [Alert Playbooks](#alert-playbooks)
 - [Disaster Recovery](#disaster-recovery)
 - [Maintenance Procedures](#maintenance-procedures)
-
 
 ## Service Overview
 
@@ -53,7 +50,6 @@ tags: []
 | Alerts | [LINK TO ALERTING SYSTEM] |
 | Deployment | [LINK TO CI/CD PIPELINE] |
 
-
 ## Contacts
 
 <!-- Who to escalate to when you're stuck. -->
@@ -65,7 +61,6 @@ tags: []
 | Service owner | [NAME] | [PHONE/SLACK/EMAIL] |
 | Database admin | [NAME] | [PHONE/SLACK/EMAIL] |
 
-
 ## Access and Credentials
 
 <!-- How to get into the systems you need to operate. -->
@@ -76,7 +71,6 @@ tags: []
 | [DATABASE] | `[CONNECTION COMMAND]` | [SECRET MANAGER PATH] |
 | [CLOUD CONSOLE] | [URL] | SSO via [PROVIDER] |
 | [MONITORING] | [URL] | SSO via [PROVIDER] |
-
 
 ## Common Operations
 
@@ -117,7 +111,6 @@ Verify it's back up:
 [ROLLBACK COMMAND, e.g., kubectl rollout undo deployment/service-name -n production]
 ```
 
-
 ## Incident Response
 
 <!-- Standard incident procedure. Keep it short — this is read under
@@ -141,7 +134,6 @@ Verify it's back up:
 | SEV2 | Major feature degraded | 15 minutes | [EXAMPLE] |
 | SEV3 | Minor feature affected | 1 hour | [EXAMPLE] |
 | SEV4 | Cosmetic or low-impact | Next business day | [EXAMPLE] |
-
 
 ## Alert Playbooks
 
@@ -194,7 +186,6 @@ minutes]
 1. [STEP 1]
 2. [STEP 2]
 
-
 ## Disaster Recovery
 
 ### Database Restore
@@ -230,7 +221,6 @@ minutes]
 **Recovery Time Objective (RTO):** [TARGET, e.g., 1 hour]
 
 **Recovery Point Objective (RPO):** [TARGET, e.g., 15 minutes]
-
 
 ## Maintenance Procedures
 

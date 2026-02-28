@@ -20,7 +20,6 @@ tldr: "[ONE-SENTENCE SUMMARY OF THE ANSWER]"
      KEY RULES: One article, one question. Lead with the answer. Use
      the language your users use, not internal jargon. -->
 
-
 # [HOW TO / ABOUT TOPIC]
 
 <!-- TL;DR: Put the answer in the first paragraph. Users who just need
@@ -28,7 +27,6 @@ tldr: "[ONE-SENTENCE SUMMARY OF THE ANSWER]"
 
 [DIRECT ANSWER TO THE QUESTION IN 1-2 SENTENCES. If the article is
 "How to reset your password," the first sentence should tell them how.]
-
 
 ## Before You Start
 
@@ -39,7 +37,6 @@ Make sure you have:
 
 - [PREREQUISITE 1, e.g., An active account]
 - [PREREQUISITE 2, e.g., Admin permissions]
-
 
 ## Steps
 
@@ -54,7 +51,6 @@ Make sure you have:
 You should see [CONFIRMATION OF SUCCESS, e.g., a green banner
 confirming your password was updated].
 
-
 ## Common Issues
 
 <!-- Address the top 2-3 problems users hit while following these steps. -->
@@ -67,12 +63,10 @@ confirming your password was updated].
 
 [SOLUTION — be specific and actionable.]
 
-
 ## Related Articles
 
 - [RELATED ARTICLE TITLE](link)
 - [RELATED ARTICLE TITLE](link)
-
 
 <!-- ALTERNATIVE STRUCTURE: For conceptual articles (not task-based),
      replace "Steps" with:

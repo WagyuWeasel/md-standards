@@ -21,7 +21,6 @@ tldr: "[ONE-SENTENCE SUMMARY OF WHAT THE READER WILL BUILD/LEARN]"
      KEY RULE: Every step must produce a visible, verifiable result.
      The reader should never be unsure if they did it right. -->
 
-
 # [HOW TO DO SOMETHING SPECIFIC]
 
 <!-- First paragraph: state what the reader will build or accomplish.
@@ -35,7 +34,6 @@ a deployed application, a configured CI pipeline].
 
 **Difficulty:** [BEGINNER / INTERMEDIATE / ADVANCED]
 
-
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -45,7 +43,6 @@ a deployed application, a configured CI pipeline].
 - [Step 3: [ACTION]](#step-3-action)
 - [Step 4: [ACTION]](#step-4-action)
 - [Next Steps](#next-steps)
-
 
 ## Prerequisites
 
@@ -58,7 +55,6 @@ Before starting, make sure you have:
 - [ACCOUNT/ACCESS] — [SIGNUP LINK IF NEEDED]
 - [PRIOR KNOWLEDGE] — familiarity with [CONCEPT]
 
-
 ## What You'll Build
 
 <!-- Describe the end result. Include a screenshot or diagram if
@@ -68,7 +64,6 @@ Before starting, make sure you have:
 What does it look like?]
 
 <!-- ![Finished result showing the dashboard](images/result.png) -->
-
 
 ## Step 1: [ACTION, e.g., Set Up the Project]
 
@@ -89,7 +84,6 @@ You should see:
 
 [ONE SENTENCE CONFIRMING WHAT THIS ACHIEVED.]
 
-
 ## Step 2: [ACTION, e.g., Configure the Database]
 
 [BRIEF EXPLANATION.]
@@ -103,7 +97,6 @@ You should see:
 ```text
 [EXPECTED OUTPUT OR VERIFICATION STEP]
 ```
-
 
 ## Step 3: [ACTION, e.g., Build the Core Feature]
 
@@ -123,7 +116,6 @@ collapsible section prevents it from blocking the tutorial flow.]
 
 </details>
 
-
 ## Step 4: [ACTION, e.g., Test and Verify]
 
 [BRIEF EXPLANATION.]
@@ -140,7 +132,6 @@ Expected output:
 
 If you see [COMMON ERROR], check [SPECIFIC THING TO FIX].
 
-
 ## Next Steps
 
 <!-- Point the reader to logical follow-ups. They just finished
@@ -151,7 +142,6 @@ You now have [WHAT THEY BUILT]. From here, you can:
 - [NEXT TASK] — see [LINK]
 - [ENHANCEMENT] — see [LINK]
 - [RELATED TUTORIAL] — see [LINK]
-
 
 <!-- REAL-WORLD EXAMPLE: A completed Step 1. -->
 

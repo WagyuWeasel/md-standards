@@ -17,13 +17,11 @@ tags: []
      SOURCE: Stripe's exhaustive config tables, Vercel's clean option
      docs, and 12-factor app configuration principles. -->
 
-
 # [PROJECT NAME] Configuration Reference
 
 This document lists every configuration option for [PROJECT NAME].
 Options can be set via [CONFIG FILE FORMAT, e.g., `config.yml`,
 `.env` file, environment variables, CLI flags].
-
 
 ## Table of Contents
 
@@ -32,7 +30,6 @@ Options can be set via [CONFIG FILE FORMAT, e.g., `config.yml`,
 - [Options Reference](#options-reference)
 - [Profiles and Environments](#profiles-and-environments)
 - [Examples](#examples)
-
 
 ## Configuration File
 
@@ -62,7 +59,6 @@ Configuration is resolved in this order (highest priority first):
 3. Configuration file
 4. Defaults
 
-
 ## Environment Variables
 
 Every option can be set via environment variable. The naming convention
@@ -70,7 +66,6 @@ is: `[PREFIX]_[SECTION]_[OPTION]` in uppercase with underscores.
 
 For example, the config option `database.host` maps to the environment
 variable `[PREFIX]_DATABASE_HOST`.
-
 
 ## Options Reference
 
@@ -101,7 +96,6 @@ variable `[PREFIX]_DATABASE_HOST`.
 | `[OPTION, e.g., logging.level]` | `string` | `"info"` | One of: `debug`, `info`, `warn`, `error` |
 | `[OPTION, e.g., logging.format]` | `string` | `"json"` | One of: `json`, `text` |
 
-
 ## Profiles and Environments
 
 <!-- If your tool supports named profiles or per-environment config,
@@ -118,7 +112,6 @@ config.production.yml   ← merged when NODE_ENV=production
 
 Environment-specific values override base values. Unset values fall
 back to the base file.
-
 
 ## Examples
 

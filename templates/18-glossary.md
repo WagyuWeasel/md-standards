@@ -21,12 +21,10 @@ tags: []
      terms the way YOUR project uses them — not the general dictionary
      definition. Link related terms to each other. -->
 
-
 # [PROJECT NAME] Glossary
 
 This glossary defines terms used throughout [PROJECT NAME] documentation,
 code, and discussions. Terms are listed alphabetically.
-
 
 ## A
 
@@ -41,13 +39,11 @@ See also: [RELATED TERM](#related-term)
 
 [DEFINITION]
 
-
 ## B
 
 ### [TERM]
 
 [DEFINITION]
-
 
 ## C
 
@@ -55,10 +51,8 @@ See also: [RELATED TERM](#related-term)
 
 [DEFINITION]
 
-
 <!-- Continue with additional letter sections as needed. Only include
      letters that have terms. Delete empty letter sections. -->
-
 
 ## D–Z
 
@@ -72,7 +66,6 @@ See also: [RELATED TERM](#related-term)
 ### [TERM]
 
 [DEFINITION]
-
 
 <!-- REAL-WORLD EXAMPLE: Completed glossary entries. -->
 

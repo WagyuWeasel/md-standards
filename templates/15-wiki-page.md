@@ -18,7 +18,6 @@ tags: []
      progressive disclosure, and Wikipedia's neutral-point-of-view
      structure. -->
 
-
 # [TOPIC TITLE]
 
 <!-- First paragraph: define the topic in 2-3 sentences. State what it
@@ -26,7 +25,6 @@ tags: []
 
 [TOPIC] is [DEFINITION]. It is used by [WHO USES IT] to [PURPOSE].
 This page covers [SCOPE OF THIS ARTICLE].
-
 
 ## Table of Contents
 
@@ -36,7 +34,6 @@ This page covers [SCOPE OF THIS ARTICLE].
 - [Best Practices](#best-practices)
 - [Related Pages](#related-pages)
 
-
 ## Overview
 
 <!-- Expand on the first paragraph. Provide enough context for someone
@@ -44,7 +41,6 @@ This page covers [SCOPE OF THIS ARTICLE].
 
 [2-3 PARAGRAPHS EXPLAINING THE TOPIC. Cover the what, why, and when.
 Include relevant history or context if it helps understanding.]
-
 
 ## Key Concepts
 
@@ -63,7 +59,6 @@ Include relevant history or context if it helps understanding.]
 
 [EXPLANATION — 2-4 sentences.]
 
-
 ## How It Works
 
 <!-- Explain the mechanism, process, or workflow. Use numbered steps
@@ -75,7 +70,6 @@ examples, or step-by-step flows where they add clarity.]
 ```text
 [DIAGRAM OR FLOW IF APPLICABLE]
 ```
-
 
 ## Best Practices
 
@@ -93,7 +87,6 @@ examples, or step-by-step flows where they add clarity.]
 - [PITFALL 2 AND HOW TO AVOID IT]
 
 </details>
-
 
 ## Related Pages
 
