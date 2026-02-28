@@ -1,0 +1,39 @@
+name: Fix Double Blank Lines
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    name: Remove Double Blank Lines
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fix all .md files
+        run: |
+          # Replace 3+ consecutive newlines with exactly 2 in all .md files
+          find . -name "*.md" -not -path "./.git/*" | while read -r file; do
+            perl -0777 -pi -e 's/\n{3,}/\n\n/g' "$file"
+            # Ensure file ends with exactly one newline
+            perl -pi -e 'chomp if eof' "$file"
+            printf '\n' >> "$file"
+            echo "Fixed: $file"
+          done
+
+      - name: Verify fixes
+        run: |
+          npm install -g markdownlint-cli2
+          markdownlint-cli2 "templates/**/*.md" "*.md" || true
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "fix: remove double blank lines from all markdown files"
+          git push
