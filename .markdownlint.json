@@ -1,5 +1,8 @@
 {
   "default": true,
+  "MD012": {
+    "maximum": 1
+  },
   "MD013": {
     "line_length": 80,
     "code_blocks": false,
@@ -8,6 +11,9 @@
   },
   "MD025": {
     "front_matter_title": ""
+  },
+  "MD029": {
+    "style": "ordered"
   },
   "MD033": {
     "allowed_elements": [
@@ -19,5 +25,6 @@
       "sup"
     ]
   },
-  "MD041": false
+  "MD041": false,
+  "MD060": false
 }
