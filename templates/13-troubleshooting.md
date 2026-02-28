@@ -1,4 +1,3 @@
-[13-troubleshooting.md](https://github.com/user-attachments/files/25634323/13-troubleshooting.md)
 ---
 title: "[PROJECT NAME] Troubleshooting Guide"
 type: troubleshooting
