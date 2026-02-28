@@ -1,4 +1,3 @@
-[25-email-template.md](https://github.com/user-attachments/files/25638016/25-email-template.md)
 ---
 title: "[EMAIL SUBJECT LINE]"
 type: email-template
