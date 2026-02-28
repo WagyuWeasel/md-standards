@@ -1,4 +1,3 @@
-[21-tutorial.md](https://github.com/user-attachments/files/25638007/21-tutorial.md)
 ---
 title: "[HOW TO DO SOMETHING SPECIFIC]"
 type: tutorial
