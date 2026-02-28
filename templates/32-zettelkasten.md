@@ -1,4 +1,3 @@
-[32-zettelkasten.md](https://github.com/user-attachments/files/25639737/32-zettelkasten.md)
 ---
 title: "[ATOMIC IDEA IN ONE PHRASE]"
 type: zettelkasten
@@ -29,7 +28,6 @@ related: []
      - Links to other notes create the network
      - The note must be understandable without its source -->
 
-
 # [ATOMIC IDEA IN ONE PHRASE]
 
 <!-- The body is the idea explained in your own words. Write 3-8
@@ -42,7 +40,6 @@ claim or concept, provide reasoning or evidence, and note any
 nuance or boundary conditions. Write as if explaining to a
 knowledgeable peer.]
 
-
 ## Source
 
 <!-- Where did this idea come from? Link to the original. This is
@@ -53,7 +50,6 @@ knowledgeable peer.]
 
 <!-- Or: conversation with [PERSON] on [DATE] -->
 <!-- Or: personal observation on [DATE] -->
-
 
 ## Links
 
@@ -67,7 +63,6 @@ knowledgeable peer.]
   counterargument"]
 - [[RELATED NOTE TITLE]] — [HOW IT CONNECTS]
 
-
 ## Questions
 
 <!-- Open questions this note raises. These can become seeds for
@@ -76,9 +71,7 @@ knowledgeable peer.]
 - [QUESTION THIS IDEA RAISES]
 - [QUESTION]
 
-
 <!-- REAL-WORLD EXAMPLE: A completed zettelkasten note. -->
-
 <!--
 # Tight feedback loops accelerate learning more than practice volume
 
