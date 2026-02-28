@@ -1,4 +1,3 @@
-[01-readme.md](https://github.com/user-attachments/files/25630265/01-readme.md)
 ---
 title: "[PROJECT NAME]"
 type: readme
