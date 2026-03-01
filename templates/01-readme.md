@@ -31,7 +31,8 @@ tags: []
      it exists. No preamble. No "Welcome to..." openers. Lead with purpose.
      This paragraph is the most important text in the entire repo. -->
 
-[PROJECT NAME] is a [WHAT IT DOES] for [WHO IT'S FOR]. It solves [CORE PROBLEM] by [HOW IT SOLVES IT], giving you [KEY BENEFIT].
+[PROJECT NAME] is a [WHAT IT DOES] for [WHO IT'S FOR]. It solves
+[CORE PROBLEM] by [HOW IT SOLVES IT], giving you [KEY BENEFIT].
 
 <!-- Optional: screenshot or demo GIF. Use descriptive alt text.
      ![Dashboard showing real-time metrics](docs/images/demo.png) -->
