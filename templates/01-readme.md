@@ -37,19 +37,19 @@ tags: []
 <!-- Optional: screenshot or demo GIF. Use descriptive alt text.
      ![Dashboard showing real-time metrics](docs/images/demo.png) -->
 
-## Table of Contents
+## Table of contents
 
 <!-- Required when you have 4+ H2 sections. Link every entry. -->
 
-- [Quick Start](#quick-start)
+- [Quick start](#quick-start)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [API Reference](#api-reference)
+- [API reference](#api-reference)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Quick Start
+## Quick start
 
 <!-- The fastest possible path from zero to working. Three to five steps
      maximum. Every code block must be copy-paste-runnable. -->
@@ -82,7 +82,7 @@ Open `http://localhost:3000` to verify it's running.
 [INSTALL COMMAND]
 ```
 
-### Build from Source
+### Build from source
 
 ```bash
 git clone https://github.com/[OWNER]/[REPO].git
@@ -96,7 +96,7 @@ cd [REPO]
      advanced patterns. Every example must be runnable. Include expected
      output where it adds clarity. -->
 
-### Basic Example
+### Basic example
 
 ```text
 [MINIMAL WORKING EXAMPLE]
@@ -108,7 +108,7 @@ Expected output:
 [EXPECTED OUTPUT]
 ```
 
-### Advanced Example
+### Advanced example
 
 ```text
 [ADVANCED EXAMPLE WITH OPTIONS/CONFIG]
@@ -144,7 +144,7 @@ Example configuration file:
 [OPTION_NAME]: [VALUE]
 ```
 
-## API Reference
+## API reference
 
 <!-- For small APIs, document here. For large APIs, link to dedicated
      docs: "See the full [API documentation](docs/api.md)." -->
@@ -195,7 +195,7 @@ replaces console.log with JSON-formatted output that integrates with
 log aggregation services like Datadog and Splunk, giving you searchable,
 filterable logs without changing your application code.
 
-## Quick Start
+## Quick start
 
 ```bash
 npm install fastlog
