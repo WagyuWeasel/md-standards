@@ -278,7 +278,7 @@ X-Webhook-Signature: sha256=[HMAC SIGNATURE]
 
 Verify the signature by computing an HMAC-SHA256 of the request body
 using your webhook secret.
-
+<!-- markdownlint-disable -->
 <!-- REAL-WORLD EXAMPLE: A completed endpoint section. -->
 
 <!--
