@@ -4,7 +4,8 @@
     "line_length": 80,
     "code_blocks": false,
     "tables": false,
-    "headings": false
+    "headings": false,
+    "stern": false
   },
   "MD024": false,
   "MD025": {
