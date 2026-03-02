@@ -1,3 +1,4 @@
+[08-api-docs.md](https://github.com/user-attachments/files/25679632/08-api-docs.md)
 ---
 title: "[API NAME] API Documentation"
 type: api-docs
@@ -51,7 +52,7 @@ To obtain an API key, [INSTRUCTIONS FOR GETTING CREDENTIALS].
 <!-- If you support multiple auth methods (API key, OAuth, JWT),
      document each one in its own subsection. -->
 
-## Base URL and Versioning
+## Base URL and versioning
 
 All endpoints are relative to the base URL:
 
@@ -64,7 +65,7 @@ released, the previous version remains available for [DEPRECATION
 PERIOD, e.g., 12 months]. Breaking changes are never introduced within
 a version.
 
-## Rate Limits
+## Rate limits
 
 <!-- Be explicit about limits. Developers need to design around them. -->
 
@@ -99,7 +100,7 @@ JSON body with `error` and `message` fields:
 }
 ```
 
-### Status Codes
+### Status codes
 
 | Code | Meaning |
 |:-----|:--------|
@@ -247,7 +248,7 @@ curl "https://api.example.com/v1/[RESOURCE]?limit=20&offset=20" \
 Webhooks notify your application when events occur. Configure webhook
 URLs in your [DASHBOARD/SETTINGS LOCATION].
 
-### Event Types
+### Event types
 
 | Event | Description |
 |:------|:------------|
@@ -255,7 +256,7 @@ URLs in your [DASHBOARD/SETTINGS LOCATION].
 | `[RESOURCE].updated` | Fired when a [RESOURCE] is modified |
 | `[RESOURCE].deleted` | Fired when a [RESOURCE] is removed |
 
-### Payload Format
+### Payload format
 
 ```json
 {
@@ -268,7 +269,7 @@ URLs in your [DASHBOARD/SETTINGS LOCATION].
 }
 ```
 
-### Verifying Webhooks
+### Verifying webhooks
 
 Each webhook request includes a signature header for verification:
 
@@ -284,7 +285,7 @@ using your webhook secret.
 <!--
 ### Users
 
-#### Create a User
+#### Create a user
 
 POST /v1/users
 
