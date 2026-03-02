@@ -1,3 +1,4 @@
+[22-report.md](https://github.com/user-attachments/files/25679920/22-report.md)
 ---
 title: "[REPORT TITLE]"
 type: report
@@ -26,7 +27,7 @@ audience: "[WHO THIS REPORT IS FOR]"
 **Date:** [DATE]
 **Status:** [DRAFT / FINAL]
 
-## Executive Summary
+## Executive summary
 
 <!-- The most important section. State the conclusion first, then the
      key supporting evidence, then the recommendation. A busy reader
@@ -104,7 +105,7 @@ Based on the findings above, we recommend:
 2. **[RECOMMENDATION 2]:** [WHAT TO DO, WHY, AND EXPECTED IMPACT]
 3. **[RECOMMENDATION 3]:** [WHAT TO DO, WHY, AND EXPECTED IMPACT]
 
-### Proposed Timeline
+### Proposed timeline
 
 | Action | Owner | Deadline |
 |:-------|:------|:---------|
