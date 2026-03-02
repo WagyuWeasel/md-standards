@@ -1,4 +1,3 @@
-[16-kb-article.md](https://github.com/user-attachments/files/25679866/16-kb-article.md)
 ---
 title: "[HOW TO / ABOUT TOPIC]"
 type: kb-article
