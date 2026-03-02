@@ -1,3 +1,4 @@
+[12-migration-guide.md](https://github.com/user-attachments/files/25679845/12-migration-guide.md)
 ---
 title: "Migration Guide: [FROM VERSION] to [TO VERSION]"
 type: migration-guide
@@ -37,7 +38,7 @@ the migration.
 - [Rollback Plan](#rollback-plan)
 - [FAQ](#faq)
 
-## Before You Begin
+## Before you begin
 
 <!-- Preconditions and preparation steps. -->
 
@@ -48,7 +49,7 @@ the migration.
 3. Review the [changelog](CHANGELOG.md) for a complete list of changes.
 4. Run your test suite and confirm all tests pass before migrating.
 
-## Breaking Changes
+## Breaking changes
 
 <!-- List every breaking change. For each: what changed, why, and the
      exact code/config modification required. This is the most important
@@ -90,31 +91,31 @@ the migration.
 [NEW CODE OR CONFIG]
 ```
 
-## Step-by-Step Migration
+## Step-by-Step migration
 
 <!-- Numbered steps. Every command must be runnable. -->
 
-### Step 1: Update the Package
+### Step 1: update the package
 
 ```bash
 [UPDATE COMMAND, e.g., npm install project-name@latest]
 ```
 
-### Step 2: Update Configuration
+### Step 2: update configuration
 
 [DESCRIBE WHAT TO CHANGE IN CONFIG FILES, with before/after examples.]
 
-### Step 3: Update Code
+### Step 3: update code
 
 [DESCRIBE CODE CHANGES REQUIRED. Reference the breaking changes above.]
 
-### Step 4: Run Database Migrations
+### Step 4: run database migrations
 
 ```bash
 [MIGRATION COMMAND IF APPLICABLE]
 ```
 
-### Step 5: Run Tests
+### Step 5: run tests
 
 ```bash
 [TEST COMMAND]
@@ -123,11 +124,11 @@ the migration.
 Fix any failures before proceeding. Common issues are covered in the
 [FAQ](#faq) below.
 
-### Step 6: Deploy
+### Step 6: deploy
 
 [DEPLOYMENT INSTRUCTIONS OR LINK TO DEPLOY DOCS]
 
-## Deprecated Features
+## Deprecated features
 
 <!-- Features that still work but will be removed in a future version.
      Give users time and guidance to move away. -->
@@ -137,14 +138,14 @@ Fix any failures before proceeding. Common issues are covered in the
 | `[FEATURE/API]` | [VERSION] | [VERSION] | `[REPLACEMENT]` |
 | `[FEATURE/API]` | [VERSION] | [VERSION] | `[REPLACEMENT]` |
 
-## New Features
+## New features
 
 <!-- Briefly highlight what's new. Link to full docs for each. -->
 
 - **[FEATURE NAME]:** [ONE-LINE DESCRIPTION]. See [DOCS LINK].
 - **[FEATURE NAME]:** [ONE-LINE DESCRIPTION]. See [DOCS LINK].
 
-## Rollback Plan
+## Rollback plan
 
 <!-- Always provide an escape route. -->
 
