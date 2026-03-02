@@ -1,3 +1,4 @@
+[18-glossary.md](https://github.com/user-attachments/files/25679877/18-glossary.md)
 ---
 title: "[PROJECT NAME] Glossary"
 type: glossary
@@ -25,6 +26,15 @@ tags: []
 
 This glossary defines terms used throughout [PROJECT NAME] documentation,
 code, and discussions. Terms are listed alphabetically.
+
+## Table of Contents
+
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D–Z](#dz)
+- [A](#a)
+- [B](#b)
 
 ## A
 
@@ -72,7 +82,7 @@ See also: [RELATED TERM](#related-term)
 <!--
 ## A
 
-### API Key
+### API key
 
 A unique string that authenticates requests to the Fastlog API. API
 keys are scoped to a single project and can have read-only or
@@ -89,7 +99,7 @@ supports two methods: API keys for server-to-server calls and OAuth
 
 ## B
 
-### Batch Ingestion
+### Batch ingestion
 
 A method of sending multiple log entries in a single API request.
 Batch ingestion reduces network overhead and is recommended for
