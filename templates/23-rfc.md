@@ -1,4 +1,3 @@
-[23-rfc.md](https://github.com/user-attachments/files/25679923/23-rfc.md)
 ---
 title: "RFC: [PROPOSAL TITLE]"
 type: rfc
