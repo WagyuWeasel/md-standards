@@ -1,3 +1,4 @@
+[09-architecture.md](https://github.com/user-attachments/files/25679641/09-architecture.md)
 ---
 title: "[SYSTEM NAME] Architecture"
 type: architecture
@@ -47,7 +48,7 @@ handles [SCALE/VOLUME DESCRIPTION, e.g., ~10K requests per second].
 The system prioritizes [KEY QUALITY ATTRIBUTES, e.g., availability and
 low latency] over [TRADEOFFS, e.g., strong consistency].
 
-## Design Principles
+## Design principles
 
 <!-- List 3-5 principles that guide architectural decisions. These help
      future developers make choices consistent with the original design. -->
@@ -56,7 +57,7 @@ low latency] over [TRADEOFFS, e.g., strong consistency].
 - **[PRINCIPLE 2, e.g., Fail gracefully]:** [WHY THIS MATTERS]
 - **[PRINCIPLE 3, e.g., Observe everything]:** [WHY THIS MATTERS]
 
-## System Context
+## System context
 
 <!-- Show how the system fits into its environment. What external systems,
      users, and services does it interact with? A diagram is ideal here.
@@ -104,7 +105,7 @@ failure modes.]
 
 [2-3 sentences describing key behavior.]
 
-## Data Flow
+## Data flow
 
 <!-- Describe the path data takes through the system for the most
      important use case(s). A sequence diagram or numbered steps works
@@ -118,7 +119,7 @@ failure modes.]
 4. [STEP 4: Event published to...]
 5. [STEP 5: Consumer processes event and...]
 
-## Data Model
+## Data model
 
 <!-- Describe the core entities and their relationships. Use a table
      or ER diagram. Focus on the domain model, not every database column. -->
@@ -168,7 +169,7 @@ maintain a separate threat model document.]
 
 </details>
 
-## Decision Log
+## Decision log
 
 <!-- Link to or summarize the key architectural decisions. For full
      detail, use separate ADR documents (see template 27-adr.md). -->
