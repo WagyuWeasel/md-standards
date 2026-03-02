@@ -1,4 +1,3 @@
-[31-checklist.md](https://github.com/user-attachments/files/25679955/31-checklist.md)
 ---
 title: "[CHECKLIST NAME]"
 type: checklist
