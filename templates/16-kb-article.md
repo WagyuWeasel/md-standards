@@ -1,3 +1,4 @@
+[16-kb-article.md](https://github.com/user-attachments/files/25679866/16-kb-article.md)
 ---
 title: "[HOW TO / ABOUT TOPIC]"
 type: kb-article
@@ -28,7 +29,17 @@ tldr: "[ONE-SENTENCE SUMMARY OF THE ANSWER]"
 [DIRECT ANSWER TO THE QUESTION IN 1-2 SENTENCES. If the article is
 "How to reset your password," the first sentence should tell them how.]
 
-## Before You Start
+## Table of Contents
+
+- [Before you start](#before-you-start)
+- [Steps](#steps)
+- [Common issues](#common-issues)
+- [Related articles](#related-articles)
+- [What Is [CONCEPT]](#what-is-concept)
+- [How [CONCEPT] Works](#how-concept-works)
+- [FAQ](#faq)
+
+## Before you start
 
 <!-- Prerequisites or context the user needs. Remove this section if
      there are no prerequisites. -->
@@ -51,7 +62,7 @@ Make sure you have:
 You should see [CONFIRMATION OF SUCCESS, e.g., a green banner
 confirming your password was updated].
 
-## Common Issues
+## Common issues
 
 <!-- Address the top 2-3 problems users hit while following these steps. -->
 
@@ -63,7 +74,7 @@ confirming your password was updated].
 
 [SOLUTION — be specific and actionable.]
 
-## Related Articles
+## Related articles
 
 - [RELATED ARTICLE TITLE](link)
 - [RELATED ARTICLE TITLE](link)
