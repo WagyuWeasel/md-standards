@@ -1,3 +1,4 @@
+[10-setup-guide.md](https://github.com/user-attachments/files/25679651/10-setup-guide.md)
 ---
 title: "[PROJECT NAME] Setup Guide"
 type: setup-guide
@@ -59,27 +60,27 @@ Verify your versions:
 <!-- Number every step. Show one command per step. Include expected
      output where it helps confirm success. -->
 
-### Step 1: Clone the Repository
+### Step 1: clone the repository
 
 ```bash
 git clone https://github.com/[OWNER]/[REPO].git
 cd [REPO]
 ```
 
-### Step 2: Install Dependencies
+### Step 2: install dependencies
 
 ```bash
 [INSTALL COMMAND, e.g., npm install]
 ```
 
-### Step 3: Set Up the Database
+### Step 3: set up the database
 
 ```bash
 [DATABASE SETUP COMMAND, e.g., createdb myapp_dev]
 [MIGRATION COMMAND, e.g., npm run db:migrate]
 ```
 
-### Step 4: Configure Environment Variables
+### Step 4: configure environment variables
 
 Copy the example environment file and fill in your values:
 
@@ -98,7 +99,7 @@ Open `.env` and set the required variables:
 
 See [Configuration](#configuration) for details on each variable.
 
-### Step 5: Start the Application
+### Step 5: start the application
 
 ```bash
 [START COMMAND, e.g., npm run dev]
@@ -122,7 +123,7 @@ Expected output:
 | `[VAR]` | No | `[DEFAULT]` | [WHAT IT DOES] |
 | `[VAR]` | No | `[DEFAULT]` | [WHAT IT DOES] |
 
-## Verify Installation
+## Verify installation
 
 <!-- Give the user a concrete way to confirm everything works. -->
 
@@ -138,7 +139,7 @@ All tests should pass. If you see failures, check the
 Open [URL, e.g., http://localhost:3000] in your browser. You should see
 [WHAT THEY SHOULD SEE, e.g., the login page, a welcome dashboard].
 
-## Next Steps
+## Next steps
 
 <!-- Point the user to the logical next action after setup. -->
 
