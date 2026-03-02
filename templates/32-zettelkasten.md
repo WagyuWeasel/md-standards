@@ -1,3 +1,4 @@
+[32-zettelkasten.md](https://github.com/user-attachments/files/25679965/32-zettelkasten.md)
 ---
 title: "[ATOMIC IDEA IN ONE PHRASE]"
 type: zettelkasten
@@ -39,6 +40,15 @@ related: []
 claim or concept, provide reasoning or evidence, and note any
 nuance or boundary conditions. Write as if explaining to a
 knowledgeable peer.]
+
+## Table of Contents
+
+- [Source](#source)
+- [Links](#links)
+- [Questions](#questions)
+- [Source](#source)
+- [Links](#links)
+- [Questions](#questions)
 
 ## Source
 
