@@ -1,3 +1,4 @@
+[14-runbook.md](https://github.com/user-attachments/files/25679854/14-runbook.md)
 ---
 title: "[SERVICE NAME] Runbook"
 type: runbook
@@ -32,7 +33,7 @@ tags: []
 - [Disaster Recovery](#disaster-recovery)
 - [Maintenance Procedures](#maintenance-procedures)
 
-## Service Overview
+## Service overview
 
 <!-- A 2-3 sentence summary. On-call engineers need instant context. -->
 
@@ -61,7 +62,7 @@ tags: []
 | Service owner | [NAME] | [PHONE/SLACK/EMAIL] |
 | Database admin | [NAME] | [PHONE/SLACK/EMAIL] |
 
-## Access and Credentials
+## Access and credentials
 
 <!-- How to get into the systems you need to operate. -->
 
@@ -72,9 +73,9 @@ tags: []
 | [CLOUD CONSOLE] | [URL] | SSO via [PROVIDER] |
 | [MONITORING] | [URL] | SSO via [PROVIDER] |
 
-## Common Operations
+## Common operations
 
-### Restart the Service
+### Restart the service
 
 ```bash
 [RESTART COMMAND, e.g., kubectl rollout restart deployment/service-name -n production]
@@ -93,30 +94,30 @@ Verify it's back up:
 [SCALE COMMAND, e.g., kubectl scale deployment/service-name --replicas=N -n production]
 ```
 
-### View Logs
+### View logs
 
 ```bash
 [LOG COMMAND, e.g., kubectl logs -f deployment/service-name -n production --tail=100]
 ```
 
-### Deploy a New Version
+### Deploy a new version
 
 ```bash
 [DEPLOY COMMAND OR LINK TO CI/CD PIPELINE]
 ```
 
-### Rollback a Deployment
+### Rollback a deployment
 
 ```bash
 [ROLLBACK COMMAND, e.g., kubectl rollout undo deployment/service-name -n production]
 ```
 
-## Incident Response
+## Incident response
 
 <!-- Standard incident procedure. Keep it short — this is read under
      pressure. -->
 
-### When an Alert Fires
+### When an alert fires
 
 1. **Acknowledge** the alert within [TIMEFRAME, e.g., 5 minutes].
 2. **Assess severity** using the table below.
@@ -126,7 +127,7 @@ Verify it's back up:
 5. **Escalate** if you cannot resolve within [TIMEFRAME, e.g., 30
    minutes].
 
-### Severity Levels
+### Severity levels
 
 | Severity | Impact | Response Time | Example |
 |:---------|:-------|:-------------|:--------|
@@ -135,7 +136,7 @@ Verify it's back up:
 | SEV3 | Minor feature affected | 1 hour | [EXAMPLE] |
 | SEV4 | Cosmetic or low-impact | Next business day | [EXAMPLE] |
 
-## Alert Playbooks
+## Alert playbooks
 
 <!-- One subsection per alert. Name matches the alert name exactly. -->
 
@@ -186,9 +187,9 @@ minutes]
 1. [STEP 1]
 2. [STEP 2]
 
-## Disaster Recovery
+## Disaster recovery
 
-### Database Restore
+### Database restore
 
 1. Identify the most recent backup:
 
@@ -210,7 +211,7 @@ minutes]
 
 4. Update the service to point to the restored instance.
 
-### Full Service Recovery
+### Full service recovery
 
 1. [STEP 1: RESTORE INFRASTRUCTURE]
 2. [STEP 2: RESTORE DATA]
@@ -222,7 +223,7 @@ minutes]
 
 **Recovery Point Objective (RPO):** [TARGET, e.g., 15 minutes]
 
-## Maintenance Procedures
+## Maintenance procedures
 
 ### [PROCEDURE NAME, e.g., "Database Maintenance Window"]
 
