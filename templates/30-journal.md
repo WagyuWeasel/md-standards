@@ -1,4 +1,3 @@
-[30-journal.md](https://github.com/user-attachments/files/25679950/30-journal.md)
 ---
 title: "Journal — [DATE]"
 type: journal
