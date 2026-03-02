@@ -1,3 +1,4 @@
+[28-roadmap.md](https://github.com/user-attachments/files/25679944/28-roadmap.md)
 ---
 title: "[PROJECT NAME] Roadmap"
 type: roadmap
@@ -46,7 +47,7 @@ technical discoveries.
 [PROJECT NAME] aims to [LONG-TERM VISION — what the project will be
 when it's "done" or fully mature. 2-3 sentences.]
 
-## Now — In Progress
+## Now — in progress
 
 <!-- Items actively being worked on. Include owner and expected
      completion. -->
@@ -57,7 +58,7 @@ when it's "done" or fully mature. 2-3 sentences.]
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [TEAM/PERSON] | [DATE/QUARTER] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [TEAM/PERSON] | [DATE/QUARTER] |
 
-## Next — Planned
+## Next — planned
 
 <!-- Committed to but not yet started. Higher confidence on scope,
      lower confidence on exact dates. -->
@@ -68,7 +69,7 @@ when it's "done" or fully mature. 2-3 sentences.]
 | [FEATURE] | [ONE-LINE DESCRIPTION] | High | [QUARTER] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | Medium | [QUARTER] |
 
-## Later — Exploring
+## Later — exploring
 
 <!-- Ideas and directions under consideration. No commitment on timing.
      This section invites feedback. -->
@@ -90,7 +91,7 @@ you, [let us know](https://github.com/[OWNER]/[REPO]/discussions).
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [DATE] |
 | [FEATURE] | [ONE-LINE DESCRIPTION] | [DATE] |
 
-## How We Prioritize
+## How we prioritize
 
 <!-- Be transparent about how decisions are made. This builds trust
      and helps contributors understand why their request may not be
