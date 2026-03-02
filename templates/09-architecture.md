@@ -1,4 +1,3 @@
-[09-architecture.md](https://github.com/user-attachments/files/25679641/09-architecture.md)
 ---
 title: "[SYSTEM NAME] Architecture"
 type: architecture
