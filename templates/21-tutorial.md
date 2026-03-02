@@ -1,3 +1,4 @@
+[21-tutorial.md](https://github.com/user-attachments/files/25679916/21-tutorial.md)
 ---
 title: "[HOW TO DO SOMETHING SPECIFIC]"
 type: tutorial
@@ -55,7 +56,7 @@ Before starting, make sure you have:
 - [ACCOUNT/ACCESS] — [SIGNUP LINK IF NEEDED]
 - [PRIOR KNOWLEDGE] — familiarity with [CONCEPT]
 
-## What You'll Build
+## What you'll build
 
 <!-- Describe the end result. Include a screenshot or diagram if
      possible. This motivates the reader to continue. -->
@@ -132,7 +133,7 @@ Expected output:
 
 If you see [COMMON ERROR], check [SPECIFIC THING TO FIX].
 
-## Next Steps
+## Next steps
 
 <!-- Point the reader to logical follow-ups. They just finished
      something — keep their momentum going. -->
@@ -146,7 +147,7 @@ You now have [WHAT THEY BUILT]. From here, you can:
 <!-- REAL-WORLD EXAMPLE: A completed Step 1. -->
 
 <!--
-## Step 1: Create the Project
+## Step 1: create the project
 
 Start by creating a new directory and initializing the project:
 
