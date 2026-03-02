@@ -1,4 +1,3 @@
-[08-api-docs.md](https://github.com/user-attachments/files/25679632/08-api-docs.md)
 ---
 title: "[API NAME] API Documentation"
 type: api-docs
