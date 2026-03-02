@@ -1,3 +1,4 @@
+[06-security.md](https://github.com/user-attachments/files/25679419/06-security.md)
 ---
 title: "Security Policy"
 type: security
@@ -20,7 +21,15 @@ tags: []
 
 # Security Policy
 
-## Supported Versions
+## Table of Contents
+
+- [Supported versions](#supported-versions)
+- [Reporting a vulnerability](#reporting-a-vulnerability)
+- [Security updates](#security-updates)
+- [Recognition](#recognition)
+- [Reporting a vulnerability](#reporting-a-vulnerability)
+
+## Supported versions
 
 <!-- List which versions currently receive security updates. Remove
      versions that are end-of-life. Be explicit — researchers need to
@@ -32,7 +41,7 @@ tags: []
 | [PREVIOUS VERSION, e.g., 1.x] | Yes (until [DATE]) |
 | [OLD VERSION, e.g., 0.x] | No |
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
 <!-- This is the most critical section. Provide a private channel.
      NEVER ask researchers to use public issue trackers for security bugs. -->
@@ -43,7 +52,7 @@ If you discover a security vulnerability, please report it responsibly.
 Send your report to **[SECURITY EMAIL, e.g., security@example.com]**
 or use [GitHub's private vulnerability reporting](https://github.com/[OWNER]/[REPO]/security/advisories/new).
 
-### What to Include
+### What to include
 
 Your report should include:
 
@@ -52,7 +61,7 @@ Your report should include:
 - The affected version(s)
 - Any suggested mitigation or fix
 
-### What to Expect
+### What to expect
 
 <!-- Set expectations on timeline. Researchers need to know you won't
      ghost them. -->
@@ -66,14 +75,14 @@ Your report should include:
 - **Disclosure:** We coordinate disclosure with the reporter. We follow
   a [DISCLOSURE WINDOW, e.g., 90-day] responsible disclosure policy.
 
-### What We Ask
+### What we ask
 
 - Give us reasonable time to fix the issue before disclosing publicly
 - Do not access or modify other users' data
 - Do not perform actions that could degrade the service for others
 - Act in good faith
 
-## Security Updates
+## Security updates
 
 <!-- Explain how users learn about security fixes. -->
 
@@ -94,7 +103,7 @@ acknowledge your contribution in the release notes for the fix.
 <!-- REAL-WORLD EXAMPLE: A completed "Reporting a Vulnerability" section. -->
 
 <!--
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
 If you discover a security vulnerability in Fastlog, please report it
 responsibly. Do not open a public issue.
