@@ -1,3 +1,4 @@
+[23-rfc.md](https://github.com/user-attachments/files/25679923/23-rfc.md)
 ---
 title: "RFC: [PROPOSAL TITLE]"
 type: rfc
@@ -64,7 +65,7 @@ that this problem is worth solving now.]
 
 [HIGH-LEVEL DESCRIPTION OF THE SOLUTION — 1-2 paragraphs.]
 
-### Detailed Design
+### Detailed design
 
 [TECHNICAL DETAILS — architecture changes, API changes, data model
 changes, new workflows. Include diagrams and code examples where they
@@ -74,7 +75,7 @@ add clarity.]
 [DIAGRAM, SCHEMA, OR CODE IF APPLICABLE]
 ```
 
-### Migration Path
+### Migration path
 
 [HOW DO WE GET FROM HERE TO THERE? Describe the rollout strategy,
 backward compatibility, and any migration steps required.]
@@ -91,7 +92,7 @@ This RFC does **not** cover:
 - [WHAT IS OUT OF SCOPE AND WHY]
 - [WHAT IS OUT OF SCOPE AND WHY]
 
-## Alternatives Considered
+## Alternatives considered
 
 <!-- Show you thought this through. For each alternative: describe it,
      explain its trade-offs, and state why you didn't choose it. -->
@@ -116,7 +117,7 @@ This RFC does **not** cover:
 
 **Why not:** [REASON THIS WAS REJECTED]
 
-### Do Nothing
+### Do nothing
 
 [WHAT HAPPENS IF WE MAINTAIN THE STATUS QUO. Be honest about the
 cost of inaction.]
@@ -145,7 +146,7 @@ cost of inaction.]
 
 [INFRASTRUCTURE, DEVELOPMENT, OR OPERATIONAL COST CHANGES]
 
-## Open Questions
+## Open questions
 
 <!-- Unresolved issues that need input from reviewers. Number them so
      people can reference them in comments. -->
