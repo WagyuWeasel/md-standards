@@ -1,4 +1,3 @@
-[05-code-of-conduct.md](https://github.com/user-attachments/files/25679379/05-code-of-conduct.md)
 ---
 title: "Code of Conduct"
 type: code-of-conduct
