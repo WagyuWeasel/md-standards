@@ -1,3 +1,4 @@
+[20-blog-post.md](https://github.com/user-attachments/files/25679896/20-blog-post.md)
 ---
 title: "[BLOG POST TITLE]"
 type: blog-post
@@ -27,6 +28,14 @@ canonical_url: ""
 
 [OPENING PARAGRAPH — State the key insight, problem, or announcement.
 Make the reader want to continue.]
+
+## Table of Contents
+
+- [[SECTION HEADING]](#section-heading)
+- [[SECTION HEADING]](#section-heading)
+- [[SECTION HEADING]](#section-heading)
+- [[CONCLUSION / CALL TO ACTION]](#conclusion-call-to-action)
+- [The problem](#the-problem)
 
 ## [SECTION HEADING]
 
@@ -90,7 +99,7 @@ Switching to connection pooling with PgBouncer dropped our P99 to
 480ms overnight. Here's exactly what we did, what went wrong along
 the way, and the configuration that worked.
 
-## The Problem
+## The problem
 
 Every API request was opening a new PostgreSQL connection, using it
 for one or two queries, and closing it. At 500 requests per second,
