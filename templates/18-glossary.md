@@ -1,4 +1,3 @@
-[18-glossary.md](https://github.com/user-attachments/files/25679877/18-glossary.md)
 ---
 title: "[PROJECT NAME] Glossary"
 type: glossary
