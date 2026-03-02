@@ -1,4 +1,3 @@
-[14-runbook.md](https://github.com/user-attachments/files/25679854/14-runbook.md)
 ---
 title: "[SERVICE NAME] Runbook"
 type: runbook
