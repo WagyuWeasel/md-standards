@@ -1,4 +1,3 @@
-[11-config-reference.md](https://github.com/user-attachments/files/25679839/11-config-reference.md)
 ---
 title: "[PROJECT NAME] Configuration Reference"
 type: config-reference
