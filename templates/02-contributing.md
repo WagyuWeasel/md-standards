@@ -1,3 +1,4 @@
+[02-contributing.md](https://github.com/user-attachments/files/25679233/02-contributing.md)
 ---
 title: "Contributing to [PROJECT NAME]"
 type: contributing
@@ -33,7 +34,7 @@ Following these guidelines helps maintainers review your work quickly.
 - [Style Guide](#style-guide)
 - [Community](#community)
 
-## Code of Conduct
+## Code of conduct
 
 <!-- Link to your CODE_OF_CONDUCT.md. Every contributor must agree to it. -->
 
@@ -41,9 +42,9 @@ This project follows the [Code of Conduct](CODE_OF_CONDUCT.md). By
 participating, you agree to uphold these standards. Report unacceptable
 behavior to [EMAIL ADDRESS].
 
-## How to Contribute
+## How to contribute
 
-### Reporting Bugs
+### Reporting bugs
 
 <!-- Explain exactly how to file a useful bug report. Link to your
      issue template if you have one. -->
@@ -57,7 +58,7 @@ to avoid duplicates. If your bug is new, open an issue and include:
 - Environment details: OS, runtime version, package version
 - Screenshots or logs if applicable
 
-### Suggesting Features
+### Suggesting features
 
 <!-- Guide contributors toward actionable feature requests. -->
 
@@ -66,7 +67,7 @@ solving, the solution you'd like, and any alternatives you've considered.
 Feature requests that align with the [project roadmap](ROADMAP.md) are
 prioritized.
 
-### Your First Contribution
+### Your first contribution
 
 <!-- Lower the barrier for newcomers. Point to beginner-friendly issues. -->
 
@@ -74,7 +75,7 @@ Look for issues labeled `good first issue` or `help wanted`. These are
 scoped for contributors who are new to the project. If you need
 guidance, comment on the issue and a maintainer will help.
 
-## Development Setup
+## Development setup
 
 <!-- Step-by-step instructions to get a local dev environment running.
      Every command must be copy-paste-runnable. -->
@@ -86,19 +87,19 @@ cd [REPO]
 [START DEV SERVER OR BUILD COMMAND]
 ```
 
-### Running Tests
+### Running tests
 
 ```bash
 [TEST COMMAND, e.g., npm test]
 ```
 
-### Running Linters
+### Running linters
 
 ```bash
 [LINT COMMAND, e.g., npm run lint]
 ```
 
-## Pull Request Process
+## Pull request process
 
 <!-- Define every step from fork to merge. Be explicit about what
      triggers a review, what blocks a merge, and who can approve. -->
@@ -107,11 +108,12 @@ cd [REPO]
 2. Name your branch descriptively: `fix/login-timeout`, `feat/dark-mode`.
 3. Make your changes. Add or update tests for any new functionality.
 4. Run the full test suite and linter. All checks must pass.
-5. Write a clear commit message following the [commit conventions](#commit-messages).
+5. Write a clear commit message following the [commit
+conventions](#commit-messages).
 6. Open a pull request against `main`. Fill in the PR template completely.
 7. A maintainer will review within [TIMEFRAME, e.g., 3 business days].
 
-### Commit Messages
+### Commit messages
 
 <!-- Specify your commit message convention. Conventional Commits is
      the most widely adopted standard. -->
@@ -128,7 +130,7 @@ type(scope): short description
 
 Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
 
-### What We Review
+### What we review
 
 <!-- Be transparent about review criteria so contributors aren't surprised. -->
 
@@ -137,18 +139,18 @@ Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
 - Does the PR description explain the "why" clearly?
 - Does it pass CI checks?
 
-## Style Guide
+## Style guide
 
 <!-- Link to or embed your coding standards. Keep it brief here;
      link to a full style guide if you have one. -->
 
-### Code Style
+### Code style
 
 - [LANGUAGE-SPECIFIC RULES, e.g., "Follow the Airbnb JavaScript Style Guide"]
 - Use [FORMATTER, e.g., Prettier] with the project's config
 - Run `[FORMAT COMMAND]` before committing
 
-### Documentation Style
+### Documentation style
 
 - Write in active voice, imperative mood for instructions
 - Use fenced code blocks with language identifiers
@@ -167,9 +169,9 @@ Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
      a fictional project. -->
 
 <!--
-## How to Contribute
+## How to contribute
 
-### Reporting Bugs
+### Reporting bugs
 
 Before filing a bug, search existing issues at
 https://github.com/acme/fastlog/issues to avoid duplicates. If your
@@ -181,7 +183,7 @@ bug is new, open an issue and include:
 - Your Node.js version (`node -v`) and fastlog version
 - Relevant log output or error messages
 
-### Suggesting Features
+### Suggesting features
 
 Open an issue with the `enhancement` label. Describe the problem you
 want solved (not just the solution you want). Include example usage
