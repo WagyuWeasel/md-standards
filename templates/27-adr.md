@@ -1,3 +1,4 @@
+[27-adr.md](https://github.com/user-attachments/files/25679942/27-adr.md)
 ---
 title: "ADR-[NUMBER]: [DECISION TITLE]"
 type: adr
@@ -28,6 +29,18 @@ tags: []
 **Date:** [YYYY-MM-DD]
 **Decision makers:** [NAMES]
 
+## Table of Contents
+
+- [Context](#context)
+- [Decision](#decision)
+- [Options considered](#options-considered)
+- [Consequences](#consequences)
+- [Related](#related)
+- [Context](#context)
+- [Decision](#decision)
+- [Options considered](#options-considered)
+- [Consequences](#consequences)
+
 ## Context
 
 <!-- What forces are at play? What problem or opportunity prompted this
@@ -46,7 +59,7 @@ We will [DECISION — e.g., use PostgreSQL as our primary database].
 [1-2 PARAGRAPHS expanding on the decision. Cover how it will be
 implemented at a high level.]
 
-## Options Considered
+## Options considered
 
 <!-- List each option with honest pros and cons. Show that the decision
      was made deliberately, not by default. -->
@@ -119,7 +132,7 @@ Node.js stack.
 We will use PostgreSQL 16 as our primary data store, hosted on AWS
 RDS with Multi-AZ deployment.
 
-## Options Considered
+## Options considered
 
 ### Option 1: PostgreSQL (chosen)
 Mature, ACID-compliant, excellent Node.js support via pg library.
