@@ -1,4 +1,3 @@
-[12-migration-guide.md](https://github.com/user-attachments/files/25679845/12-migration-guide.md)
 ---
 title: "Migration Guide: [FROM VERSION] to [TO VERSION]"
 type: migration-guide
