@@ -1,3 +1,4 @@
+[25-email-template.md](https://github.com/user-attachments/files/25679936/25-email-template.md)
 ---
 title: "[EMAIL SUBJECT LINE]"
 type: email-template
@@ -27,6 +28,15 @@ audience: "[RECIPIENT GROUP]"
 **From:** [SENDER NAME] <[EMAIL]>
 **To:** [RECIPIENT OR LIST]
 **Preview text:** [FIRST 90 CHARACTERS VISIBLE IN INBOX PREVIEW]
+
+## Table of Contents
+
+- [Header](#header)
+- [Opening](#opening)
+- [Body](#body)
+- [Call to action](#call-to-action)
+- [Closing](#closing)
+- [Footer](#footer)
 
 ## Header
 
@@ -61,7 +71,7 @@ immediately.]
 
 [CONTENT]
 
-## Call to Action
+## Call to action
 
 <!-- Every email should have one clear CTA. What do you want the reader
      to do? Make it obvious and easy. -->
