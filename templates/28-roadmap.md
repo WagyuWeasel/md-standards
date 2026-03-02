@@ -1,4 +1,3 @@
-[28-roadmap.md](https://github.com/user-attachments/files/25679944/28-roadmap.md)
 ---
 title: "[PROJECT NAME] Roadmap"
 type: roadmap
