@@ -1,3 +1,4 @@
+[07-support.md](https://github.com/user-attachments/files/25679460/07-support.md)
 ---
 title: "Support"
 type: support
@@ -43,7 +44,7 @@ Start here:
 - [Configuration Guide]([LINK TO CONFIG DOCS])
 - [Troubleshooting Guide]([LINK TO TROUBLESHOOTING])
 
-## Questions and Discussion
+## Questions and discussion
 
 <!-- Provide a channel for open-ended questions that don't belong
      in the issue tracker. -->
@@ -60,7 +61,7 @@ For questions and general discussion, use one of these channels:
 Please do **not** use the GitHub issue tracker for support questions.
 Issues are reserved for confirmed bugs and feature requests.
 
-## Bug Reports and Feature Requests
+## Bug reports and feature requests
 
 <!-- Direct users to the issue tracker with clear expectations. -->
 
@@ -74,7 +75,7 @@ Before opening an issue, please:
 2. Verify you're using the latest version
 3. Check the [troubleshooting guide]([LINK]) for known solutions
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 <!-- Include the top 3-5 questions you actually get asked. These should
      be real questions from real users, not invented ones. -->
@@ -96,7 +97,7 @@ Before opening an issue, please:
 See [SECURITY.md](SECURITY.md) for responsible disclosure instructions.
 Do not open a public issue for security vulnerabilities.
 
-## Paid Support
+## Paid support
 
 <!-- Optional. Include if you offer commercial support. Remove this
      section entirely if you don't. -->
