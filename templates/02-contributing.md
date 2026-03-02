@@ -1,4 +1,3 @@
-[02-contributing.md](https://github.com/user-attachments/files/25679233/02-contributing.md)
 ---
 title: "Contributing to [PROJECT NAME]"
 type: contributing
