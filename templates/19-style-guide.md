@@ -1,3 +1,4 @@
+[19-style-guide.md](https://github.com/user-attachments/files/25679883/19-style-guide.md)
 ---
 title: "[PROJECT NAME] Style Guide"
 type: style-guide
@@ -17,7 +18,7 @@ tags: []
      or other content for the project.
      SOURCE: Anthropic's prose-first and minimal-formatting standards,
      Stripe's documentation-as-product philosophy, Google developer
-     documentation style guide, and Microsoft Writing Style Guide. -->
+ documentation style guide, and Microsoft Writing Style Guide. -->
 
 # [PROJECT NAME] Style Guide
 
@@ -35,7 +36,7 @@ consistent, clear, and accessible.
 - [Terminology](#terminology)
 - [File Naming](#file-naming)
 
-## Voice and Tone
+## Voice and tone
 
 <!-- Define how your docs should "sound." This shapes every sentence. -->
 
@@ -43,32 +44,32 @@ Write as if you're explaining something to a knowledgeable colleague:
 direct, clear, and respectful of the reader's time.
 
 - **Active voice:** "The function returns a list" not "A list is
-  returned by the function."
+ returned by the function."
 - **Imperative mood for instructions:** "Run the command" not "You
-  should run the command."
+ should run the command."
 - **Present tense:** "The API returns JSON" not "The API will return
-  JSON."
+ JSON."
 - **Second person:** Address the reader as "you."
-- **No filler:** Cut words like "simply," "just," "basically," and
-  "obviously." If something were obvious, you wouldn't need to
-  document it.
+- **No filler:** Cut words like "," "just," "," and
+ "." If something were obvious, you wouldn't need to
+ document it.
 
 ## Language
 
-### Word Choice
+### Word choice
 
 - Use plain language. Prefer short, common words over long, formal ones.
 - [TERM TO USE] not [TERM TO AVOID] (e.g., "use" not "utilize")
 - [TERM TO USE] not [TERM TO AVOID] (e.g., "start" not "commence")
 - [TERM TO USE] not [TERM TO AVOID]
 
-### Abbreviations and Acronyms
+### Abbreviations and acronyms
 
 Spell out on first use, then abbreviate: "application programming
 interface (API)." After that, use the abbreviation. Never assume the
 reader knows what an acronym means.
 
-### Inclusive Language
+### Inclusive language
 
 - Use gender-neutral language: "they" as a singular pronoun is fine.
 - Avoid "whitelist/blacklist" — use "allowlist/denylist."
@@ -80,17 +81,17 @@ reader knows what an acronym means.
 ### Headings
 
 - Use sentence case: "Configure the database" not "Configure the
-  Database."
+ Database."
 - Never skip heading levels. H1 → H2 → H3 → H4.
 - One H1 per document matching the front matter `title`.
 
-### Prose vs. Lists
+### Prose vs. lists
 
 Write in flowing paragraphs by default. Use bullet points only for
 genuinely discrete items where three or more items are parallel in
 structure. Each bullet must be at least one full sentence.
 
-### Bold and Italics
+### Bold and italics
 
 - **Bold** for UI elements: "Click **Save**."
 - `Code font` for file names, commands, variables, and paths.
@@ -99,26 +100,26 @@ structure. Each bullet must be at least one full sentence.
 ### Links
 
 - Use descriptive text: "See the [configuration reference](config.md)"
-  not "Click [here](config.md)."
+ not "Click [here](config.md)."
 - Use relative links for internal pages, absolute URLs for external.
 - Use reference-style links when a document has five or more external
-  URLs.
+ URLs.
 
-## Code in Documentation
+## Code in documentation
 
-### Code Blocks
+### Code blocks
 
 Always use fenced code blocks with a language identifier:
 
 ````text
 ```python
 result = calculate(x, y)
-```
+```text
 ````
 
 Never use indented code blocks.
 
-### Inline Code
+### Inline code
 
 Use backticks for file names (`README.md`), commands (`npm install`),
 variables (`API_KEY`), function names (`getData()`), and paths
@@ -132,7 +133,7 @@ Every code example should be copy-paste-runnable. Include:
 - Realistic variable names (not `foo`, `bar`)
 - Expected output as a comment or separate block
 
-## Images and Media
+## Images and media
 
 - Always include descriptive alt text: `![API flow diagram](img.png)`
 - Store images in a `docs/images/` directory
@@ -143,7 +144,7 @@ Every code example should be copy-paste-runnable. Include:
 ## Terminology
 
 <!-- List your project's preferred terms. Link to the glossary for
-     full definitions. -->
+ full definitions. -->
 
 | Use | Don't Use | Why |
 |:----|:----------|:----|
@@ -153,9 +154,9 @@ Every code example should be copy-paste-runnable. Include:
 
 For the full list of defined terms, see the [Glossary](glossary.md).
 
-## File Naming
+## File naming
 
 - Lowercase with hyphens: `setup-guide.md`, not `Setup Guide.md` or
-  `setup_guide.md`
+ `setup_guide.md`
 - Be descriptive: `api-authentication.md` not `auth.md`
 - No spaces, no underscores, no uppercase
