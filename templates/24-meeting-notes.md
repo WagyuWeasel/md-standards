@@ -1,3 +1,4 @@
+[24-meeting-notes.md](https://github.com/user-attachments/files/25679928/24-meeting-notes.md)
 ---
 title: "[MEETING NAME] — [DATE]"
 type: meeting-notes
@@ -27,6 +28,16 @@ tags: []
 **Facilitator:** [NAME]
 **Note-taker:** [NAME]
 
+## Table of Contents
+
+- [Attendees](#attendees)
+- [Agenda](#agenda)
+- [Decisions](#decisions)
+- [Action items](#action-items)
+- [Discussion notes](#discussion-notes)
+- [Parking lot](#parking-lot)
+- [Next meeting](#next-meeting)
+
 ## Attendees
 
 - [NAME] — [ROLE/TEAM]
@@ -51,7 +62,7 @@ tags: []
 1. **[DECISION]:** [DETAILS — what was agreed, any conditions]
 2. **[DECISION]:** [DETAILS]
 
-## Action Items
+## Action items
 
 <!-- Every action has an owner and a deadline. No orphan actions. -->
 
@@ -61,7 +72,7 @@ tags: []
 | [WHAT NEEDS TO BE DONE] | [NAME] | [DATE] |
 | [WHAT NEEDS TO BE DONE] | [NAME] | [DATE] |
 
-## Discussion Notes
+## Discussion notes
 
 <!-- Brief summary of key points discussed. Focus on context that
      explains the decisions above, not a transcript. -->
@@ -75,7 +86,7 @@ disagreements, and how the group reached a conclusion.]
 
 [KEY POINTS DISCUSSED.]
 
-## Parking Lot
+## Parking lot
 
 <!-- Topics that came up but were deferred. Track them so they don't
      get lost. -->
@@ -83,7 +94,7 @@ disagreements, and how the group reached a conclusion.]
 - [DEFERRED TOPIC — to be discussed on [DATE] or in [FORUM]]
 - [DEFERRED TOPIC]
 
-## Next Meeting
+## Next meeting
 
 **Date:** [DATE]
 **Agenda preview:** [TOPICS EXPECTED]
