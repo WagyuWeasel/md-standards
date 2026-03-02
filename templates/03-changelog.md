@@ -1,3 +1,4 @@
+[03-changelog.md](https://github.com/user-attachments/files/25679288/03-changelog.md)
 ---
 title: "Changelog"
 type: changelog
@@ -35,6 +36,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
      - Removed: features removed in this release
      - Fixed: bug fixes
      - Security: vulnerability patches -->
+
+## Table of Contents
+
+- [[Unreleased]](#unreleased)
+- [[1.0.0] - 2026-01-01](#100-2026-01-01)
+- [[0.2.0] - 2025-12-01](#020-2025-12-01)
+- [[0.1.0] - 2025-11-01](#010-2025-11-01)
+- [[2.3.0] - 2026-02-15](#230-2026-02-15)
 
 ## [Unreleased]
 
