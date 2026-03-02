@@ -1,4 +1,3 @@
-[19-style-guide.md](https://github.com/user-attachments/files/25679883/19-style-guide.md)
 ---
 title: "[PROJECT NAME] Style Guide"
 type: style-guide
