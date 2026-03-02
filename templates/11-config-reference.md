@@ -1,3 +1,4 @@
+[11-config-reference.md](https://github.com/user-attachments/files/25679839/11-config-reference.md)
 ---
 title: "[PROJECT NAME] Configuration Reference"
 type: config-reference
@@ -31,7 +32,7 @@ Options can be set via [CONFIG FILE FORMAT, e.g., `config.yml`,
 - [Profiles and Environments](#profiles-and-environments)
 - [Examples](#examples)
 
-## Configuration File
+## Configuration file
 
 <!-- Explain where the config file lives and its format. -->
 
@@ -59,7 +60,7 @@ Configuration is resolved in this order (highest priority first):
 3. Configuration file
 4. Defaults
 
-## Environment Variables
+## Environment variables
 
 Every option can be set via environment variable. The naming convention
 is: `[PREFIX]_[SECTION]_[OPTION]` in uppercase with underscores.
@@ -67,7 +68,7 @@ is: `[PREFIX]_[SECTION]_[OPTION]` in uppercase with underscores.
 For example, the config option `database.host` maps to the environment
 variable `[PREFIX]_DATABASE_HOST`.
 
-## Options Reference
+## Options reference
 
 <!-- Document every option. Group by section. For each option: name,
      type, default, valid values, and what it does. -->
@@ -96,7 +97,7 @@ variable `[PREFIX]_DATABASE_HOST`.
 | `[OPTION, e.g., logging.level]` | `string` | `"info"` | One of: `debug`, `info`, `warn`, `error` |
 | `[OPTION, e.g., logging.format]` | `string` | `"json"` | One of: `json`, `text` |
 
-## Profiles and Environments
+## Profiles and environments
 
 <!-- If your tool supports named profiles or per-environment config,
      explain how they work. Remove this section if not applicable. -->
@@ -115,7 +116,7 @@ back to the base file.
 
 ## Examples
 
-### Minimal Configuration
+### Minimal configuration
 
 ```yaml
 [OPTION]: [VALUE]
@@ -123,7 +124,7 @@ back to the base file.
   [OPTION]: [VALUE]
 ```
 
-### Production Configuration
+### Production configuration
 
 ```yaml
 server:
