@@ -1,3 +1,4 @@
+[15-wiki-page.md](https://github.com/user-attachments/files/25679860/15-wiki-page.md)
 ---
 title: "[TOPIC TITLE]"
 type: wiki-page
@@ -42,7 +43,7 @@ This page covers [SCOPE OF THIS ARTICLE].
 [2-3 PARAGRAPHS EXPLAINING THE TOPIC. Cover the what, why, and when.
 Include relevant history or context if it helps understanding.]
 
-## Key Concepts
+## Key concepts
 
 <!-- Define the essential terms and ideas. Each concept gets a short
      heading and a clear explanation. -->
@@ -59,7 +60,7 @@ Include relevant history or context if it helps understanding.]
 
 [EXPLANATION — 2-4 sentences.]
 
-## How It Works
+## How it works
 
 <!-- Explain the mechanism, process, or workflow. Use numbered steps
      for sequential processes, prose for conceptual explanations. -->
@@ -71,7 +72,7 @@ examples, or step-by-step flows where they add clarity.]
 [DIAGRAM OR FLOW IF APPLICABLE]
 ```
 
-## Best Practices
+## Best practices
 
 <!-- Actionable guidance based on team experience. Write as direct
      recommendations, not vague suggestions. -->
@@ -88,7 +89,7 @@ examples, or step-by-step flows where they add clarity.]
 
 </details>
 
-## Related Pages
+## Related pages
 
 <!-- Link to other wiki pages that provide context or go deeper. -->
 
