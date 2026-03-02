@@ -1,3 +1,4 @@
+[31-checklist.md](https://github.com/user-attachments/files/25679955/31-checklist.md)
 ---
 title: "[CHECKLIST NAME]"
 type: checklist
@@ -29,6 +30,15 @@ onboarding a new team member, publishing a blog post].
 **Owner:** [NAME]
 **Date:** [YYYY-MM-DD]
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [[PHASE 1: NAME]](#phase-1-name)
+- [[PHASE 2: NAME]](#phase-2-name)
+- [[PHASE 3: NAME]](#phase-3-name)
+- [Verification](#verification)
+- [Sign-Off](#sign-off)
+
 ## Prerequisites
 
 <!-- What must be true before starting this checklist? -->
@@ -44,7 +54,8 @@ onboarding a new team member, publishing a blog post].
 - [ ] [ACTION — e.g., Back up the current database]
 - [ ] [ACTION — e.g., Notify the team in #deploys channel]
 - [ ] [ACTION — e.g., Run migrations with `npm run migrate`]
-- [ ] [ACTION — e.g., Verify migrations completed: check `schema_version` table]
+- [ ] [ACTION — e.g., Verify migrations completed: check
+  `schema_version` table]
 
 ## [PHASE 2: NAME]
 
