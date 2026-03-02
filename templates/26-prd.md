@@ -1,3 +1,4 @@
+[26-prd.md](https://github.com/user-attachments/files/25679938/26-prd.md)
 ---
 title: "PRD: [FEATURE NAME]"
 type: prd
@@ -43,7 +44,7 @@ revenue impact, competitive pressure, or strategic alignment].
 - [Timeline](#timeline)
 - [Open Questions](#open-questions)
 
-## Problem Statement
+## Problem statement
 
 <!-- What problem exists today? Who is affected? What evidence do you
      have that this is worth solving? -->
@@ -52,7 +53,7 @@ revenue impact, competitive pressure, or strategic alignment].
 support tickets, user research findings, churn analysis, or competitive
 gaps.]
 
-## Goals and Non-Goals
+## Goals and non-goals
 
 ### Goals
 
@@ -68,7 +69,7 @@ gaps.]
 - [NON-GOAL 1 — and why it's out of scope]
 - [NON-GOAL 2]
 
-## User Stories
+## User stories
 
 <!-- Write from the user's perspective. Each story should be testable. -->
 
@@ -80,7 +81,7 @@ gaps.]
 
 ## Requirements
 
-### Functional Requirements
+### Functional requirements
 
 | ID | Requirement | Priority | Notes |
 |:---|:------------|:---------|:------|
@@ -89,7 +90,7 @@ gaps.]
 | FR-3 | [WHAT THE SYSTEM MUST DO] | Should have | |
 | FR-4 | [WHAT THE SYSTEM MUST DO] | Nice to have | |
 
-### Non-Functional Requirements
+### Non-Functional requirements
 
 | Requirement | Target |
 |:------------|:-------|
@@ -99,7 +100,7 @@ gaps.]
 | Accessibility | [e.g., WCAG 2.1 AA] |
 | Scalability | [e.g., Support 10K concurrent users] |
 
-### Acceptance Criteria
+### Acceptance criteria
 
 <!-- For each key user story, define the specific conditions that must
      be true for the feature to be considered complete. -->
@@ -126,7 +127,7 @@ gaps.]
 
 **API changes:** [SUMMARY OF NEW OR MODIFIED ENDPOINTS]
 
-## Success Metrics
+## Success metrics
 
 <!-- How will you know this feature succeeded? Define metrics with
      targets and measurement methods. -->
@@ -147,7 +148,7 @@ gaps.]
 | QA start | [DATE] | [NAME] |
 | Ship | [DATE] | [NAME] |
 
-## Open Questions
+## Open questions
 
 1. [QUESTION THAT NEEDS RESOLUTION BEFORE OR DURING DEVELOPMENT]
 2. [QUESTION]
