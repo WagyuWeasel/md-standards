@@ -1,3 +1,4 @@
+[30-journal.md](https://github.com/user-attachments/files/25679950/30-journal.md)
 ---
 title: "Journal — [DATE]"
 type: journal
@@ -23,7 +24,16 @@ tags: []
 **Week:** [WEEK NUMBER OR DATE RANGE]
 **Mood/Energy:** [OPTIONAL — e.g., High / Steady / Low]
 
-## Today's Focus
+## Table of Contents
+
+- [Today's focus](#todays-focus)
+- [What happened](#what-happened)
+- [What I learned](#what-i-learned)
+- [Blockers and challenges](#blockers-and-challenges)
+- [Gratitude / wins](#gratitude-wins)
+- [Tomorrow](#tomorrow)
+
+## Today's focus
 
 <!-- What is the one thing that matters most today? Naming it up front
      creates intentionality. -->
@@ -31,7 +41,7 @@ tags: []
 [ONE SENTENCE — the single most important thing to accomplish or
 focus on today.]
 
-## What Happened
+## What happened
 
 <!-- Write freely. Capture events, conversations, decisions, and
      observations. This is raw material — don't over-edit. -->
@@ -39,21 +49,21 @@ focus on today.]
 [PROSE — describe what happened today. What did you work on? What
 conversations stood out? What decisions were made? What surprised you?]
 
-## What I Learned
+## What I learned
 
 <!-- Extract lessons, insights, or new information worth remembering. -->
 
 - [LESSON OR INSIGHT]
 - [LESSON OR INSIGHT]
 
-## Blockers and Challenges
+## Blockers and challenges
 
 <!-- What slowed you down or is still unresolved? Writing it down makes
      it concrete and actionable. -->
 
 - [BLOCKER OR CHALLENGE — and any ideas for resolving it]
 
-## Gratitude / Wins
+## Gratitude / wins
 
 <!-- Acknowledge what went well, no matter how small. This prevents
      journals from becoming purely problem-focused. -->
