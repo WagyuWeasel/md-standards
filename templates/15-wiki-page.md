@@ -1,4 +1,3 @@
-[15-wiki-page.md](https://github.com/user-attachments/files/25679860/15-wiki-page.md)
 ---
 title: "[TOPIC TITLE]"
 type: wiki-page
