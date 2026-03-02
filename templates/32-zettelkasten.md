@@ -1,4 +1,3 @@
-[32-zettelkasten.md](https://github.com/user-attachments/files/25679965/32-zettelkasten.md)
 ---
 title: "[ATOMIC IDEA IN ONE PHRASE]"
 type: zettelkasten
