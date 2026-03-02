@@ -1,4 +1,3 @@
-[26-prd.md](https://github.com/user-attachments/files/25679938/26-prd.md)
 ---
 title: "PRD: [FEATURE NAME]"
 type: prd
