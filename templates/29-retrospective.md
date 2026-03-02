@@ -1,3 +1,4 @@
+[29-retrospective.md](https://github.com/user-attachments/files/25679948/29-retrospective.md)
 ---
 title: "[TEAM/PROJECT] Retrospective — [DATE/SPRINT]"
 type: retrospective
@@ -26,6 +27,16 @@ tags: []
 **Facilitator:** [NAME]
 **Participants:** [NAMES]
 
+## Table of Contents
+
+- [Summary](#summary)
+- [What went well](#what-went-well)
+- [What didn't go well](#what-didnt-go-well)
+- [What we learned](#what-we-learned)
+- [Action items](#action-items)
+- [Follow-Up from previous retro](#follow-up-from-previous-retro)
+- [Metrics](#metrics)
+
 ## Summary
 
 <!-- 2-3 sentences summarizing the period. What was the goal? Was it
@@ -35,7 +46,7 @@ tags: []
 the release date but carried over two items related to rate limiting.
 Team morale was high but workload was unsustainable."]
 
-## What Went Well
+## What went well
 
 <!-- Celebrate wins. Be specific — name the people and actions that
      made a positive difference. -->
@@ -45,7 +56,7 @@ Team morale was high but workload was unsustainable."]
 - [POSITIVE ITEM]
 - [POSITIVE ITEM]
 
-## What Didn't Go Well
+## What didn't go well
 
 <!-- Be honest but blameless. Focus on systems and processes, not
      individuals. -->
@@ -55,7 +66,7 @@ Team morale was high but workload was unsustainable."]
 - [PROBLEM]
 - [PROBLEM]
 
-## What We Learned
+## What we learned
 
 <!-- Insights that should inform future work. -->
 
@@ -64,7 +75,7 @@ Team morale was high but workload was unsustainable."]
 - [INSIGHT]
 - [INSIGHT]
 
-## Action Items
+## Action items
 
 <!-- The most important section. Every action has an owner, a deadline,
      and is specific enough to be verifiable. -->
@@ -75,7 +86,7 @@ Team morale was high but workload was unsustainable."]
 | [SPECIFIC ACTION] | [NAME] | [DATE] | To do |
 | [SPECIFIC ACTION] | [NAME] | [DATE] | To do |
 
-## Follow-Up from Previous Retro
+## Follow-Up from previous retro
 
 <!-- Track whether last retro's actions were completed. This builds
      accountability and shows the retro process actually drives change.
