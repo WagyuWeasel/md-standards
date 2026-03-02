@@ -1,3 +1,4 @@
+[13-troubleshooting.md](https://github.com/user-attachments/files/25679850/13-troubleshooting.md)
 ---
 title: "[PROJECT NAME] Troubleshooting Guide"
 type: troubleshooting
@@ -35,7 +36,7 @@ or open a new one.
 - [Performance Issues](#performance-issues)
 - [Diagnostic Tools](#diagnostic-tools)
 
-## Installation Issues
+## Installation issues
 
 ### [ISSUE TITLE, e.g., "Dependency installation fails"]
 
@@ -67,7 +68,7 @@ or open a new one.
 1. [STEP 1]
 2. [STEP 2]
 
-## Configuration Issues
+## Configuration issues
 
 ### [ISSUE TITLE, e.g., "Environment variable not recognized"]
 
@@ -108,7 +109,7 @@ credentials, firewall blocking port]
    [DIRECT CONNECTION TEST COMMAND]
    ```
 
-## Runtime Errors
+## Runtime errors
 
 ### [ISSUE TITLE, e.g., "Request timeout after 30 seconds"]
 
@@ -132,7 +133,7 @@ credentials, firewall blocking port]
 1. [STEP 1]
 2. [STEP 2]
 
-## Performance Issues
+## Performance issues
 
 ### [ISSUE TITLE, e.g., "Slow response times"]
 
@@ -160,12 +161,12 @@ credentials, firewall blocking port]
 | [CAUSE 2] | [FIX 2] |
 | [CAUSE 3] | [FIX 3] |
 
-## Diagnostic Tools
+## Diagnostic tools
 
 <!-- Point users to built-in tools that help them gather information
      for self-diagnosis or bug reports. -->
 
-### Health Check
+### Health check
 
 ```bash
 [HEALTH CHECK COMMAND, e.g., curl http://localhost:3000/health]
@@ -180,7 +181,7 @@ Expected output when healthy:
 }
 ```
 
-### Debug Mode
+### Debug mode
 
 Enable verbose logging to get more detail:
 
@@ -188,7 +189,7 @@ Enable verbose logging to get more detail:
 [DEBUG COMMAND, e.g., DEBUG=* npm start]
 ```
 
-### Collecting Diagnostic Information
+### Collecting diagnostic information
 
 When filing a bug report, include:
 
