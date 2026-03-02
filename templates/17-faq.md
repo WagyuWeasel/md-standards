@@ -1,3 +1,4 @@
+[17-faq.md](https://github.com/user-attachments/files/25679869/17-faq.md)
 ---
 title: "[PROJECT NAME] FAQ"
 type: faq
@@ -46,7 +47,7 @@ in [SUPPORT CHANNEL, e.g., GitHub Discussions].
 
 [ANSWER — be specific about OS, runtime, and browser support.]
 
-## Installation and Setup
+## Installation and setup
 
 ### [QUESTION, e.g., "How do I install [PROJECT NAME]?"]
 
@@ -80,7 +81,7 @@ For full instructions, see the [Setup Guide](docs/setup-guide.md).
 
 [ANSWER]
 
-## Billing and Licensing
+## Billing and licensing
 
 <!-- Remove this section if not applicable (e.g., for open-source
      projects with no paid tier). -->
