@@ -1,4 +1,3 @@
-[06-security.md](https://github.com/user-attachments/files/25679419/06-security.md)
 ---
 title: "Security Policy"
 type: security
